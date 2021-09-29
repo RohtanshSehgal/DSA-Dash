@@ -1,0 +1,977 @@
+{
+  "website": "leetcode",
+  "response": true,
+  "length": 194,
+  "results": [
+    {
+      "question": "Two Sum",
+      "link": "https://leetcode.com/problems/two-sum",
+      "category": "Google"
+    },
+    {
+      "question": "Median of Two Sorted Arrays",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "category": "Google"
+    },
+    {
+      "question": "Regular Expression Matching",
+      "link": "https://leetcode.com/problems/regular-expression-matching",
+      "category": "Google"
+    },
+    {
+      "question": "Letter Combinations of a Phone Number",
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "category": "Google"
+    },
+    {
+      "question": "Valid Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "category": "Google"
+    },
+    {
+      "question": "Generate Parentheses",
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "category": "Google"
+    },
+    {
+      "question": "Merge k Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "category": "Google"
+    },
+    {
+      "question": "Remove Duplicates from Sorted Array",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "category": "Google"
+    },
+    {
+      "question": "Next Permutation",
+      "link": "https://leetcode.com/problems/next-permutation",
+      "category": "Google"
+    },
+    {
+      "question": "Trapping Rain Water",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "category": "Google"
+    },
+    {
+      "question": "Wildcard Matching",
+      "link": "https://leetcode.com/problems/wildcard-matching",
+      "category": "Google"
+    },
+    {
+      "question": "Pow(x, n)",
+      "link": "https://leetcode.com/problems/powx-n",
+      "category": "Google"
+    },
+    {
+      "question": "Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "category": "Google"
+    },
+    {
+      "question": "Insert Interval",
+      "link": "https://leetcode.com/problems/insert-interval",
+      "category": "Google"
+    },
+    {
+      "question": "Plus One",
+      "link": "https://leetcode.com/problems/plus-one",
+      "category": "Google"
+    },
+    {
+      "question": "Maximal Rectangle",
+      "link": "https://leetcode.com/problems/maximal-rectangle",
+      "category": "Google"
+    },
+    {
+      "question": "Same Tree",
+      "link": "https://leetcode.com/problems/same-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Pascal's Triangle",
+      "link": "https://leetcode.com/problems/pascals-triangle",
+      "category": "Google"
+    },
+    {
+      "question": "Word Ladder",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Consecutive Sequence",
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "category": "Google"
+    },
+    {
+      "question": "Clone Graph",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "category": "Google"
+    },
+    {
+      "question": "Word Break",
+      "link": "https://leetcode.com/problems/word-break",
+      "category": "Google"
+    },
+    {
+      "question": "Word Break II",
+      "link": "https://leetcode.com/problems/word-break-ii",
+      "category": "Google"
+    },
+    {
+      "question": "LRU Cache",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "category": "Google"
+    },
+    {
+      "question": "Min Stack",
+      "link": "https://leetcode.com/problems/min-stack",
+      "category": "Google"
+    },
+    {
+      "question": "Find Peak Element",
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "category": "Google"
+    },
+    {
+      "question": "Fraction to Recurring Decimal",
+      "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+      "category": "Google"
+    },
+    {
+      "question": "Binary Search Tree Iterator",
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+      "category": "Google"
+    },
+    {
+      "question": "House Robber",
+      "link": "https://leetcode.com/problems/house-robber",
+      "category": "Google"
+    },
+    {
+      "question": "Number of Islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "category": "Google"
+    },
+    {
+      "question": "Isomorphic Strings",
+      "link": "https://leetcode.com/problems/isomorphic-strings",
+      "category": "Google"
+    },
+    {
+      "question": "Implement Trie (Prefix Tree)",
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Word Search II",
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Shortest Palindrome",
+      "link": "https://leetcode.com/problems/shortest-palindrome",
+      "category": "Google"
+    },
+    {
+      "question": "The Skyline Problem",
+      "link": "https://leetcode.com/problems/the-skyline-problem",
+      "category": "Google"
+    },
+    {
+      "question": "Count Complete Tree Nodes",
+      "link": "https://leetcode.com/problems/count-complete-tree-nodes",
+      "category": "Google"
+    },
+    {
+      "question": "Basic Calculator",
+      "link": "https://leetcode.com/problems/basic-calculator",
+      "category": "Google"
+    },
+    {
+      "question": "Summary Ranges",
+      "link": "https://leetcode.com/problems/summary-ranges",
+      "category": "Google"
+    },
+    {
+      "question": "Kth Smallest Element in a BST",
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+      "category": "Google"
+    },
+    {
+      "question": "Power of Two",
+      "link": "https://leetcode.com/problems/power-of-two",
+      "category": "Google"
+    },
+    {
+      "question": "Product of Array Except Self",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "category": "Google"
+    },
+    {
+      "question": "Sliding Window Maximum",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "category": "Google"
+    },
+    {
+      "question": "Search a 2D Matrix II",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Binary Tree Paths",
+      "link": "https://leetcode.com/problems/binary-tree-paths",
+      "category": "Google"
+    },
+    {
+      "question": "H-Index",
+      "link": "https://leetcode.com/problems/h-index",
+      "category": "Google"
+    },
+    {
+      "question": "Perfect Squares",
+      "link": "https://leetcode.com/problems/perfect-squares",
+      "category": "Google"
+    },
+    {
+      "question": "Expression Add Operators",
+      "link": "https://leetcode.com/problems/expression-add-operators",
+      "category": "Google"
+    },
+    {
+      "question": "Move Zeroes",
+      "link": "https://leetcode.com/problems/move-zeroes",
+      "category": "Google"
+    },
+    {
+      "question": "Peeking Iterator",
+      "link": "https://leetcode.com/problems/peeking-iterator",
+      "category": "Google"
+    },
+    {
+      "question": "Game of Life",
+      "link": "https://leetcode.com/problems/game-of-life",
+      "category": "Google"
+    },
+    {
+      "question": "Find Median from Data Stream",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "category": "Google"
+    },
+    {
+      "question": "Serialize and Deserialize Binary Tree",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Bulls and Cows",
+      "link": "https://leetcode.com/problems/bulls-and-cows",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Increasing Subsequence",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "category": "Google"
+    },
+    {
+      "question": "Best Time to Buy and Sell Stock with Cooldown",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+      "category": "Google"
+    },
+    {
+      "question": "Minimum Height Trees",
+      "link": "https://leetcode.com/problems/minimum-height-trees",
+      "category": "Google"
+    },
+    {
+      "question": "Burst Balloons",
+      "link": "https://leetcode.com/problems/burst-balloons",
+      "category": "Google"
+    },
+    {
+      "question": "Super Ugly Number",
+      "link": "https://leetcode.com/problems/super-ugly-number",
+      "category": "Google"
+    },
+    {
+      "question": "Count of Smaller Numbers After Self",
+      "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+      "category": "Google"
+    },
+    {
+      "question": "Remove Duplicate Letters",
+      "link": "https://leetcode.com/problems/remove-duplicate-letters",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum Product of Word Lengths",
+      "link": "https://leetcode.com/problems/maximum-product-of-word-lengths",
+      "category": "Google"
+    },
+    {
+      "question": "Create Maximum Number",
+      "link": "https://leetcode.com/problems/create-maximum-number",
+      "category": "Google"
+    },
+    {
+      "question": "Wiggle Sort II",
+      "link": "https://leetcode.com/problems/wiggle-sort-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Power of Three",
+      "link": "https://leetcode.com/problems/power-of-three",
+      "category": "Google"
+    },
+    {
+      "question": "Count of Range Sum",
+      "link": "https://leetcode.com/problems/count-of-range-sum",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Increasing Path in a Matrix",
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Patching Array",
+      "link": "https://leetcode.com/problems/patching-array",
+      "category": "Google"
+    },
+    {
+      "question": "Verify Preorder Serialization of a Binary Tree",
+      "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Reconstruct Itinerary",
+      "link": "https://leetcode.com/problems/reconstruct-itinerary",
+      "category": "Google"
+    },
+    {
+      "question": "Palindrome Pairs",
+      "link": "https://leetcode.com/problems/palindrome-pairs",
+      "category": "Google"
+    },
+    {
+      "question": "Flatten Nested List Iterator",
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+      "category": "Google"
+    },
+    {
+      "question": "Reverse Vowels of a String",
+      "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+      "category": "Google"
+    },
+    {
+      "question": "Russian Doll Envelopes",
+      "link": "https://leetcode.com/problems/russian-doll-envelopes",
+      "category": "Google"
+    },
+    {
+      "question": "Count Numbers with Unique Digits",
+      "link": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+      "category": "Google"
+    },
+    {
+      "question": "Max Sum of Rectangle No Larger Than K",
+      "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+      "category": "Google"
+    },
+    {
+      "question": "Find K Pairs with Smallest Sums",
+      "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+      "category": "Google"
+    },
+    {
+      "question": "Guess Number Higher or Lower",
+      "link": "https://leetcode.com/problems/guess-number-higher-or-lower",
+      "category": "Google"
+    },
+    {
+      "question": "Guess Number Higher or Lower II",
+      "link": "https://leetcode.com/problems/guess-number-higher-or-lower-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Combination Sum IV",
+      "link": "https://leetcode.com/problems/combination-sum-iv",
+      "category": "Google"
+    },
+    {
+      "question": "Kth Smallest Element in a Sorted Matrix",
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Insert Delete GetRandom O(1)",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "category": "Google"
+    },
+    {
+      "question": "Linked List Random Node",
+      "link": "https://leetcode.com/problems/linked-list-random-node",
+      "category": "Google"
+    },
+    {
+      "question": "First Unique Character in a String",
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Absolute File Path",
+      "link": "https://leetcode.com/problems/longest-absolute-file-path",
+      "category": "Google"
+    },
+    {
+      "question": "Find the Difference",
+      "link": "https://leetcode.com/problems/find-the-difference",
+      "category": "Google"
+    },
+    {
+      "question": "Perfect Rectangle",
+      "link": "https://leetcode.com/problems/perfect-rectangle",
+      "category": "Google"
+    },
+    {
+      "question": "UTF-8 Validation",
+      "link": "https://leetcode.com/problems/utf-8-validation",
+      "category": "Google"
+    },
+    {
+      "question": "Decode String",
+      "link": "https://leetcode.com/problems/decode-string",
+      "category": "Google"
+    },
+    {
+      "question": "Integer Replacement",
+      "link": "https://leetcode.com/problems/integer-replacement",
+      "category": "Google"
+    },
+    {
+      "question": "Evaluate Division",
+      "link": "https://leetcode.com/problems/evaluate-division",
+      "category": "Google"
+    },
+    {
+      "question": "Nth Digit",
+      "link": "https://leetcode.com/problems/nth-digit",
+      "category": "Google"
+    },
+    {
+      "question": "Binary Watch",
+      "link": "https://leetcode.com/problems/binary-watch",
+      "category": "Google"
+    },
+    {
+      "question": "Remove K Digits",
+      "link": "https://leetcode.com/problems/remove-k-digits",
+      "category": "Google"
+    },
+    {
+      "question": "Queue Reconstruction by Height",
+      "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
+      "category": "Google"
+    },
+    {
+      "question": "Trapping Rain Water II",
+      "link": "https://leetcode.com/problems/trapping-rain-water-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Palindrome",
+      "link": "https://leetcode.com/problems/longest-palindrome",
+      "category": "Google"
+    },
+    {
+      "question": "Split Array Largest Sum",
+      "link": "https://leetcode.com/problems/split-array-largest-sum",
+      "category": "Google"
+    },
+    {
+      "question": "Add Strings",
+      "link": "https://leetcode.com/problems/add-strings",
+      "category": "Google"
+    },
+    {
+      "question": "Pacific Atlantic Water Flow",
+      "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum XOR of Two Numbers in an Array",
+      "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+      "category": "Google"
+    },
+    {
+      "question": "Number of Boomerangs",
+      "link": "https://leetcode.com/problems/number-of-boomerangs",
+      "category": "Google"
+    },
+    {
+      "question": "Find All Numbers Disappeared in an Array",
+      "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+      "category": "Google"
+    },
+    {
+      "question": "Sort Characters By Frequency",
+      "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+      "category": "Google"
+    },
+    {
+      "question": "Repeated Substring Pattern",
+      "link": "https://leetcode.com/problems/repeated-substring-pattern",
+      "category": "Google"
+    },
+    {
+      "question": "LFU Cache",
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "category": "Google"
+    },
+    {
+      "question": "Island Perimeter",
+      "link": "https://leetcode.com/problems/island-perimeter",
+      "category": "Google"
+    },
+    {
+      "question": "Ones and Zeroes",
+      "link": "https://leetcode.com/problems/ones-and-zeroes",
+      "category": "Google"
+    },
+    {
+      "question": "Heaters",
+      "link": "https://leetcode.com/problems/heaters",
+      "category": "Google"
+    },
+    {
+      "question": "Sliding Window Median",
+      "link": "https://leetcode.com/problems/sliding-window-median",
+      "category": "Google"
+    },
+    {
+      "question": "Magical String",
+      "link": "https://leetcode.com/problems/magical-string",
+      "category": "Google"
+    },
+    {
+      "question": "License Key Formatting",
+      "link": "https://leetcode.com/problems/license-key-formatting",
+      "category": "Google"
+    },
+    {
+      "question": "Smallest Good Base",
+      "link": "https://leetcode.com/problems/smallest-good-base",
+      "category": "Google"
+    },
+    {
+      "question": "Max Consecutive Ones",
+      "link": "https://leetcode.com/problems/max-consecutive-ones",
+      "category": "Google"
+    },
+    {
+      "question": "Predict the Winner",
+      "link": "https://leetcode.com/problems/predict-the-winner",
+      "category": "Google"
+    },
+    {
+      "question": "Reverse Pairs",
+      "link": "https://leetcode.com/problems/reverse-pairs",
+      "category": "Google"
+    },
+    {
+      "question": "Target Sum",
+      "link": "https://leetcode.com/problems/target-sum",
+      "category": "Google"
+    },
+    {
+      "question": "Diagonal Traverse",
+      "link": "https://leetcode.com/problems/diagonal-traverse",
+      "category": "Google"
+    },
+    {
+      "question": "Find Mode in Binary Search Tree",
+      "link": "https://leetcode.com/problems/find-mode-in-binary-search-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Next Greater Element II",
+      "link": "https://leetcode.com/problems/next-greater-element-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Relative Ranks",
+      "link": "https://leetcode.com/problems/relative-ranks",
+      "category": "Google"
+    },
+    {
+      "question": "Freedom Trail",
+      "link": "https://leetcode.com/problems/freedom-trail",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Palindromic Subsequence",
+      "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+      "category": "Google"
+    },
+    {
+      "question": "Detect Capital",
+      "link": "https://leetcode.com/problems/detect-capital",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Uncommon Subsequence I",
+      "link": "https://leetcode.com/problems/longest-uncommon-subsequence-i",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Uncommon Subsequence II",
+      "link": "https://leetcode.com/problems/longest-uncommon-subsequence-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Word in Dictionary through Deleting",
+      "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
+      "category": "Google"
+    },
+    {
+      "question": "Beautiful Arrangement",
+      "link": "https://leetcode.com/problems/beautiful-arrangement",
+      "category": "Google"
+    },
+    {
+      "question": "Minimum Absolute Difference in BST",
+      "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst",
+      "category": "Google"
+    },
+    {
+      "question": "Encode and Decode TinyURL",
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "category": "Google"
+    },
+    {
+      "question": "Reverse String II",
+      "link": "https://leetcode.com/problems/reverse-string-ii",
+      "category": "Google"
+    },
+    {
+      "question": "01 Matrix",
+      "link": "https://leetcode.com/problems/01-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Diameter of Binary Tree",
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree",
+      "category": "Google"
+    },
+    {
+      "question": "Student Attendance Record I",
+      "link": "https://leetcode.com/problems/student-attendance-record-i",
+      "category": "Google"
+    },
+    {
+      "question": "Student Attendance Record II",
+      "link": "https://leetcode.com/problems/student-attendance-record-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Subarray Sum Equals K",
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "category": "Google"
+    },
+    {
+      "question": "Shortest Unsorted Continuous Subarray",
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "category": "Google"
+    },
+    {
+      "question": "Delete Operation for Two Strings",
+      "link": "https://leetcode.com/problems/delete-operation-for-two-strings",
+      "category": "Google"
+    },
+    {
+      "question": "Erect the Fence",
+      "link": "https://leetcode.com/problems/erect-the-fence",
+      "category": "Google"
+    },
+    {
+      "question": "Smallest Range Covering Elements from K Lists",
+      "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+      "category": "Google"
+    },
+    {
+      "question": "Shopping Offers",
+      "link": "https://leetcode.com/problems/shopping-offers",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum Average Subarray I",
+      "link": "https://leetcode.com/problems/maximum-average-subarray-i",
+      "category": "Google"
+    },
+    {
+      "question": "Find Duplicate Subtrees",
+      "link": "https://leetcode.com/problems/find-duplicate-subtrees",
+      "category": "Google"
+    },
+    {
+      "question": "Find K Closest Elements",
+      "link": "https://leetcode.com/problems/find-k-closest-elements",
+      "category": "Google"
+    },
+    {
+      "question": "Split Array into Consecutive Subsequences",
+      "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
+      "category": "Google"
+    },
+    {
+      "question": "Non-decreasing Array",
+      "link": "https://leetcode.com/problems/non-decreasing-array",
+      "category": "Google"
+    },
+    {
+      "question": "Beautiful Arrangement II",
+      "link": "https://leetcode.com/problems/beautiful-arrangement-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Kth Smallest Number in Multiplication Table",
+      "link": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table",
+      "category": "Google"
+    },
+    {
+      "question": "Implement Magic Dictionary",
+      "link": "https://leetcode.com/problems/implement-magic-dictionary",
+      "category": "Google"
+    },
+    {
+      "question": "Valid Parenthesis String",
+      "link": "https://leetcode.com/problems/valid-parenthesis-string",
+      "category": "Google"
+    },
+    {
+      "question": "24 Game",
+      "link": "https://leetcode.com/problems/24-game",
+      "category": "Google"
+    },
+    {
+      "question": "Redundant Connection",
+      "link": "https://leetcode.com/problems/redundant-connection",
+      "category": "Google"
+    },
+    {
+      "question": "Redundant Connection II",
+      "link": "https://leetcode.com/problems/redundant-connection-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Repeated String Match",
+      "link": "https://leetcode.com/problems/repeated-string-match",
+      "category": "Google"
+    },
+    {
+      "question": "Longest Univalue Path",
+      "link": "https://leetcode.com/problems/longest-univalue-path",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum Sum of 3 Non-Overlapping Subarrays",
+      "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
+      "category": "Google"
+    },
+    {
+      "question": "Find K-th Smallest Pair Distance",
+      "link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
+      "category": "Google"
+    },
+    {
+      "question": "Number of Atoms",
+      "link": "https://leetcode.com/problems/number-of-atoms",
+      "category": "Google"
+    },
+    {
+      "question": "My Calendar I",
+      "link": "https://leetcode.com/problems/my-calendar-i",
+      "category": "Google"
+    },
+    {
+      "question": "My Calendar II",
+      "link": "https://leetcode.com/problems/my-calendar-ii",
+      "category": "Google"
+    },
+    {
+      "question": "My Calendar III",
+      "link": "https://leetcode.com/problems/my-calendar-iii",
+      "category": "Google"
+    },
+    {
+      "question": "Daily Temperatures",
+      "link": "https://leetcode.com/problems/daily-temperatures",
+      "category": "Google"
+    },
+    {
+      "question": "Largest Number At Least Twice of Others",
+      "link": "https://leetcode.com/problems/largest-number-at-least-twice-of-others",
+      "category": "Google"
+    },
+    {
+      "question": "Shortest Completing Word",
+      "link": "https://leetcode.com/problems/shortest-completing-word",
+      "category": "Google"
+    },
+    {
+      "question": "Open the Lock",
+      "link": "https://leetcode.com/problems/open-the-lock",
+      "category": "Google"
+    },
+    {
+      "question": "Cracking the Safe",
+      "link": "https://leetcode.com/problems/cracking-the-safe",
+      "category": "Google"
+    },
+    {
+      "question": "Pyramid Transition Matrix",
+      "link": "https://leetcode.com/problems/pyramid-transition-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Couples Holding Hands",
+      "link": "https://leetcode.com/problems/couples-holding-hands",
+      "category": "Google"
+    },
+    {
+      "question": "Toeplitz Matrix",
+      "link": "https://leetcode.com/problems/toeplitz-matrix",
+      "category": "Google"
+    },
+    {
+      "question": "Number of Matching Subsequences",
+      "link": "https://leetcode.com/problems/number-of-matching-subsequences",
+      "category": "Google"
+    },
+    {
+      "question": "Minimum Swaps To Make Sequences Increasing",
+      "link": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing",
+      "category": "Google"
+    },
+    {
+      "question": "Backspace String Compare",
+      "link": "https://leetcode.com/problems/backspace-string-compare",
+      "category": "Google"
+    },
+    {
+      "question": "Maximize Distance to Closest Person",
+      "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+      "category": "Google"
+    },
+    {
+      "question": "All Possible Full Binary Trees",
+      "link": "https://leetcode.com/problems/all-possible-full-binary-trees",
+      "category": "Google"
+    },
+    {
+      "question": "Fruit Into Baskets",
+      "link": "https://leetcode.com/problems/fruit-into-baskets",
+      "category": "Google"
+    },
+    {
+      "question": "Long Pressed Name",
+      "link": "https://leetcode.com/problems/long-pressed-name",
+      "category": "Google"
+    },
+    {
+      "question": "Unique Email Addresses",
+      "link": "https://leetcode.com/problems/unique-email-addresses",
+      "category": "Google"
+    },
+    {
+      "question": "Knight Dialer",
+      "link": "https://leetcode.com/problems/knight-dialer",
+      "category": "Google"
+    },
+    {
+      "question": "Minimum Area Rectangle",
+      "link": "https://leetcode.com/problems/minimum-area-rectangle",
+      "category": "Google"
+    },
+    {
+      "question": "K Closest Points to Origin",
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "category": "Google"
+    },
+    {
+      "question": "Odd Even Jump",
+      "link": "https://leetcode.com/problems/odd-even-jump",
+      "category": "Google"
+    },
+    {
+      "question": "Shortest Way to Form String",
+      "link": "https://leetcode.com/problems/shortest-way-to-form-string",
+      "category": "Google"
+    },
+    {
+      "question": "Campus Bikes",
+      "link": "https://leetcode.com/problems/campus-bikes",
+      "category": "Google"
+    },
+    {
+      "question": "Confusing Number II",
+      "link": "https://leetcode.com/problems/confusing-number-ii",
+      "category": "Google"
+    },
+    {
+      "question": "Video Stitching",
+      "link": "https://leetcode.com/problems/video-stitching",
+      "category": "Google"
+    },
+    {
+      "question": "Stream of Characters",
+      "link": "https://leetcode.com/problems/stream-of-characters",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum Level Sum of a Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
+      "category": "Google"
+    },
+    {
+      "question": "String Transforms Into Another String",
+      "link": "https://leetcode.com/problems/string-transforms-into-another-string",
+      "category": "Google"
+    },
+    {
+      "question": "Number of Submatrices That Sum to Target",
+      "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
+      "category": "Google"
+    },
+    {
+      "question": "Divide Chocolate",
+      "link": "https://leetcode.com/problems/divide-chocolate",
+      "category": "Google"
+    },
+    {
+      "question": "Delete Nodes And Return Forest",
+      "link": "https://leetcode.com/problems/delete-nodes-and-return-forest",
+      "category": "Google"
+    },
+    {
+      "question": "Compare Strings by Frequency of the Smallest Character",
+      "link": "https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character",
+      "category": "Google"
+    },
+    {
+      "question": "Tiling a Rectangle with the Fewest Squares",
+      "link": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares",
+      "category": "Google"
+    },
+    {
+      "question": "Count Number of Nice Subarrays",
+      "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+      "category": "Google"
+    }
+  ]
+}

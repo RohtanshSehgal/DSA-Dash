@@ -1,0 +1,637 @@
+{
+  "website": "leetcode",
+  "response": true,
+  "length": 126,
+  "results": [
+    {
+      "question": "Two Sum",
+      "link": "https://leetcode.com/problems/two-sum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Add Two Numbers",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "category": "Amazon"
+    },
+    {
+      "question": "Longest Substring Without Repeating Characters",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "category": "Amazon"
+    },
+    {
+      "question": "Median of Two Sorted Arrays",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "category": "Amazon"
+    },
+    {
+      "question": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "category": "Amazon"
+    },
+    {
+      "question": "ZigZag Conversion",
+      "link": "https://leetcode.com/problems/zigzag-conversion",
+      "category": "Amazon"
+    },
+    {
+      "question": "String to Integer (atoi)",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "category": "Amazon"
+    },
+    {
+      "question": "3Sum",
+      "link": "https://leetcode.com/problems/3sum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Letter Combinations of a Phone Number",
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+      "category": "Amazon"
+    },
+    {
+      "question": "Valid Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "category": "Amazon"
+    },
+    {
+      "question": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "category": "Amazon"
+    },
+    {
+      "question": "Generate Parentheses",
+      "link": "https://leetcode.com/problems/generate-parentheses",
+      "category": "Amazon"
+    },
+    {
+      "question": "Merge k Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "category": "Amazon"
+    },
+    {
+      "question": "Trapping Rain Water",
+      "link": "https://leetcode.com/problems/trapping-rain-water",
+      "category": "Amazon"
+    },
+    {
+      "question": "Permutations",
+      "link": "https://leetcode.com/problems/permutations",
+      "category": "Amazon"
+    },
+    {
+      "question": "Rotate Image",
+      "link": "https://leetcode.com/problems/rotate-image",
+      "category": "Amazon"
+    },
+    {
+      "question": "Group Anagrams",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "category": "Amazon"
+    },
+    {
+      "question": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "category": "Amazon"
+    },
+    {
+      "question": "Spiral Matrix II",
+      "link": "https://leetcode.com/problems/spiral-matrix-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Unique Paths II",
+      "link": "https://leetcode.com/problems/unique-paths-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Minimum Path Sum",
+      "link": "https://leetcode.com/problems/minimum-path-sum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Edit Distance",
+      "link": "https://leetcode.com/problems/edit-distance",
+      "category": "Amazon"
+    },
+    {
+      "question": "Set Matrix Zeroes",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sort Colors",
+      "link": "https://leetcode.com/problems/sort-colors",
+      "category": "Amazon"
+    },
+    {
+      "question": "Minimum Window Substring",
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "category": "Amazon"
+    },
+    {
+      "question": "Subsets",
+      "link": "https://leetcode.com/problems/subsets",
+      "category": "Amazon"
+    },
+    {
+      "question": "Gray Code",
+      "link": "https://leetcode.com/problems/gray-code",
+      "category": "Amazon"
+    },
+    {
+      "question": "Validate Binary Search Tree",
+      "link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Same Tree",
+      "link": "https://leetcode.com/problems/same-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Binary Tree Level Order Traversal",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+      "category": "Amazon"
+    },
+    {
+      "question": "Path Sum II",
+      "link": "https://leetcode.com/problems/path-sum-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Pascal's Triangle II",
+      "link": "https://leetcode.com/problems/pascals-triangle-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Best Time to Buy and Sell Stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "category": "Amazon"
+    },
+    {
+      "question": "Word Ladder II",
+      "link": "https://leetcode.com/problems/word-ladder-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Word Ladder",
+      "link": "https://leetcode.com/problems/word-ladder",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sum Root to Leaf Numbers",
+      "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+      "category": "Amazon"
+    },
+    {
+      "question": "Copy List with Random Pointer",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "category": "Amazon"
+    },
+    {
+      "question": "Word Break",
+      "link": "https://leetcode.com/problems/word-break",
+      "category": "Amazon"
+    },
+    {
+      "question": "Linked List Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "category": "Amazon"
+    },
+    {
+      "question": "LRU Cache",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sort List",
+      "link": "https://leetcode.com/problems/sort-list",
+      "category": "Amazon"
+    },
+    {
+      "question": "Min Stack",
+      "link": "https://leetcode.com/problems/min-stack",
+      "category": "Amazon"
+    },
+    {
+      "question": "Intersection of Two Linked Lists",
+      "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+      "category": "Amazon"
+    },
+    {
+      "question": "Two Sum II - Input array is sorted",
+      "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+      "category": "Amazon"
+    },
+    {
+      "question": "Binary Search Tree Iterator",
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+      "category": "Amazon"
+    },
+    {
+      "question": "Rotate Array",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "category": "Amazon"
+    },
+    {
+      "question": "Binary Tree Right Side View",
+      "link": "https://leetcode.com/problems/binary-tree-right-side-view",
+      "category": "Amazon"
+    },
+    {
+      "question": "Number of Islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "category": "Amazon"
+    },
+    {
+      "question": "Happy Number",
+      "link": "https://leetcode.com/problems/happy-number",
+      "category": "Amazon"
+    },
+    {
+      "question": "Count Primes",
+      "link": "https://leetcode.com/problems/count-primes",
+      "category": "Amazon"
+    },
+    {
+      "question": "Reverse Linked List",
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "category": "Amazon"
+    },
+    {
+      "question": "Word Search II",
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Kth Largest Element in an Array",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "category": "Amazon"
+    },
+    {
+      "question": "Basic Calculator",
+      "link": "https://leetcode.com/problems/basic-calculator",
+      "category": "Amazon"
+    },
+    {
+      "question": "Palindrome Linked List",
+      "link": "https://leetcode.com/problems/palindrome-linked-list",
+      "category": "Amazon"
+    },
+    {
+      "question": "Lowest Common Ancestor of a Binary Search Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Lowest Common Ancestor of a Binary Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Product of Array Except Self",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sliding Window Maximum",
+      "link": "https://leetcode.com/problems/sliding-window-maximum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Search a 2D Matrix II",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+      "category": "Amazon"
+    },
+    {
+      "question": "Valid Anagram",
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "category": "Amazon"
+    },
+    {
+      "question": "Find Median from Data Stream",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "category": "Amazon"
+    },
+    {
+      "question": "Serialize and Deserialize Binary Tree",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Top K Frequent Elements",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "category": "Amazon"
+    },
+    {
+      "question": "Design Twitter",
+      "link": "https://leetcode.com/problems/design-twitter",
+      "category": "Amazon"
+    },
+    {
+      "question": "Insert Delete GetRandom O(1)",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "category": "Amazon"
+    },
+    {
+      "question": "Shuffle an Array",
+      "link": "https://leetcode.com/problems/shuffle-an-array",
+      "category": "Amazon"
+    },
+    {
+      "question": "First Unique Character in a String",
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "category": "Amazon"
+    },
+    {
+      "question": "Rotate Function",
+      "link": "https://leetcode.com/problems/rotate-function",
+      "category": "Amazon"
+    },
+    {
+      "question": "Third Maximum Number",
+      "link": "https://leetcode.com/problems/third-maximum-number",
+      "category": "Amazon"
+    },
+    {
+      "question": "Battleships in a Board",
+      "link": "https://leetcode.com/problems/battleships-in-a-board",
+      "category": "Amazon"
+    },
+    {
+      "question": "Find All Anagrams in a String",
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+      "category": "Amazon"
+    },
+    {
+      "question": "String Compression",
+      "link": "https://leetcode.com/problems/string-compression",
+      "category": "Amazon"
+    },
+    {
+      "question": "Serialize and Deserialize BST",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sort Characters By Frequency",
+      "link": "https://leetcode.com/problems/sort-characters-by-frequency",
+      "category": "Amazon"
+    },
+    {
+      "question": "Repeated Substring Pattern",
+      "link": "https://leetcode.com/problems/repeated-substring-pattern",
+      "category": "Amazon"
+    },
+    {
+      "question": "LFU Cache",
+      "link": "https://leetcode.com/problems/lfu-cache",
+      "category": "Amazon"
+    },
+    {
+      "question": "Concatenated Words",
+      "link": "https://leetcode.com/problems/concatenated-words",
+      "category": "Amazon"
+    },
+    {
+      "question": "Most Frequent Subtree Sum",
+      "link": "https://leetcode.com/problems/most-frequent-subtree-sum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Longest Palindromic Subsequence",
+      "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
+      "category": "Amazon"
+    },
+    {
+      "question": "Super Washing Machines",
+      "link": "https://leetcode.com/problems/super-washing-machines",
+      "category": "Amazon"
+    },
+    {
+      "question": "Minesweeper",
+      "link": "https://leetcode.com/problems/minesweeper",
+      "category": "Amazon"
+    },
+    {
+      "question": "K-diff Pairs in an Array",
+      "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
+      "category": "Amazon"
+    },
+    {
+      "question": "Encode and Decode TinyURL",
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+      "category": "Amazon"
+    },
+    {
+      "question": "Complex Number Multiplication",
+      "link": "https://leetcode.com/problems/complex-number-multiplication",
+      "category": "Amazon"
+    },
+    {
+      "question": "Convert BST to Greater Tree",
+      "link": "https://leetcode.com/problems/convert-bst-to-greater-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "01 Matrix",
+      "link": "https://leetcode.com/problems/01-matrix",
+      "category": "Amazon"
+    },
+    {
+      "question": "Optimal Division",
+      "link": "https://leetcode.com/problems/optimal-division",
+      "category": "Amazon"
+    },
+    {
+      "question": "Subarray Sum Equals K",
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
+      "category": "Amazon"
+    },
+    {
+      "question": "Subtree of Another Tree",
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Shortest Unsorted Continuous Subarray",
+      "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+      "category": "Amazon"
+    },
+    {
+      "question": "Construct String from Binary Tree",
+      "link": "https://leetcode.com/problems/construct-string-from-binary-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Merge Two Binary Trees",
+      "link": "https://leetcode.com/problems/merge-two-binary-trees",
+      "category": "Amazon"
+    },
+    {
+      "question": "Solve the Equation",
+      "link": "https://leetcode.com/problems/solve-the-equation",
+      "category": "Amazon"
+    },
+    {
+      "question": "Set Mismatch",
+      "link": "https://leetcode.com/problems/set-mismatch",
+      "category": "Amazon"
+    },
+    {
+      "question": "Maximum Length of Pair Chain",
+      "link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+      "category": "Amazon"
+    },
+    {
+      "question": "Image Smoother",
+      "link": "https://leetcode.com/problems/image-smoother",
+      "category": "Amazon"
+    },
+    {
+      "question": "Maximum Width of Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-width-of-binary-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Cut Off Trees for Golf Event",
+      "link": "https://leetcode.com/problems/cut-off-trees-for-golf-event",
+      "category": "Amazon"
+    },
+    {
+      "question": "Baseball Game",
+      "link": "https://leetcode.com/problems/baseball-game",
+      "category": "Amazon"
+    },
+    {
+      "question": "Top K Frequent Words",
+      "link": "https://leetcode.com/problems/top-k-frequent-words",
+      "category": "Amazon"
+    },
+    {
+      "question": "Accounts Merge",
+      "link": "https://leetcode.com/problems/accounts-merge",
+      "category": "Amazon"
+    },
+    {
+      "question": "Find Pivot Index",
+      "link": "https://leetcode.com/problems/find-pivot-index",
+      "category": "Amazon"
+    },
+    {
+      "question": "Split Linked List in Parts",
+      "link": "https://leetcode.com/problems/split-linked-list-in-parts",
+      "category": "Amazon"
+    },
+    {
+      "question": "Monotone Increasing Digits",
+      "link": "https://leetcode.com/problems/monotone-increasing-digits",
+      "category": "Amazon"
+    },
+    {
+      "question": "Min Cost Climbing Stairs",
+      "link": "https://leetcode.com/problems/min-cost-climbing-stairs",
+      "category": "Amazon"
+    },
+    {
+      "question": "Prime Number of Set Bits in Binary Representation",
+      "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation",
+      "category": "Amazon"
+    },
+    {
+      "question": "Partition Labels",
+      "link": "https://leetcode.com/problems/partition-labels",
+      "category": "Amazon"
+    },
+    {
+      "question": "Reorganize String",
+      "link": "https://leetcode.com/problems/reorganize-string",
+      "category": "Amazon"
+    },
+    {
+      "question": "Global and Local Inversions",
+      "link": "https://leetcode.com/problems/global-and-local-inversions",
+      "category": "Amazon"
+    },
+    {
+      "question": "Most Common Word",
+      "link": "https://leetcode.com/problems/most-common-word",
+      "category": "Amazon"
+    },
+    {
+      "question": "Unique Email Addresses",
+      "link": "https://leetcode.com/problems/unique-email-addresses",
+      "category": "Amazon"
+    },
+    {
+      "question": "Knight Dialer",
+      "link": "https://leetcode.com/problems/knight-dialer",
+      "category": "Amazon"
+    },
+    {
+      "question": "Reorder Data in Log Files",
+      "link": "https://leetcode.com/problems/reorder-data-in-log-files",
+      "category": "Amazon"
+    },
+    {
+      "question": "Prison Cells After N Days",
+      "link": "https://leetcode.com/problems/prison-cells-after-n-days",
+      "category": "Amazon"
+    },
+    {
+      "question": "K Closest Points to Origin",
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
+      "category": "Amazon"
+    },
+    {
+      "question": "Subarrays with K Different Integers",
+      "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
+      "category": "Amazon"
+    },
+    {
+      "question": "Rotting Oranges",
+      "link": "https://leetcode.com/problems/rotting-oranges",
+      "category": "Amazon"
+    },
+    {
+      "question": "Binary Search Tree to Greater Sum Tree",
+      "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+      "category": "Amazon"
+    },
+    {
+      "question": "Distant Barcodes",
+      "link": "https://leetcode.com/problems/distant-barcodes",
+      "category": "Amazon"
+    },
+    {
+      "question": "Sum of Nodes with Even-Valued Grandparent",
+      "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent",
+      "category": "Amazon"
+    },
+    {
+      "question": "Number of Dice Rolls With Target Sum",
+      "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+      "category": "Amazon"
+    },
+    {
+      "question": "Critical Connections in a Network",
+      "link": "https://leetcode.com/problems/critical-connections-in-a-network",
+      "category": "Amazon"
+    },
+    {
+      "question": "Search Suggestions System",
+      "link": "https://leetcode.com/problems/search-suggestions-system",
+      "category": "Amazon"
+    },
+    {
+      "question": "Number of Steps to Reduce a Number to Zero",
+      "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
+      "category": "Amazon"
+    },
+    {
+      "question": "Stone Game III",
+      "link": "https://leetcode.com/problems/stone-game-iii",
+      "category": "Amazon"
+    }
+  ]
+}

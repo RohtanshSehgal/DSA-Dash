@@ -1,0 +1,132 @@
+{
+  "website": "leetcode",
+  "response": true,
+  "length": 25,
+  "results": [
+    {
+      "question": "Nested List Weight Sum II",
+      "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Shortest Word Distance II",
+      "link": "https://leetcode.com/problems/shortest-word-distance-ii",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Closest Binary Search Tree Value II",
+      "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Two Sum III - Data structure design",
+      "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Nested List Weight Sum",
+      "link": "https://leetcode.com/problems/nested-list-weight-sum",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Max Stack",
+      "link": "https://leetcode.com/problems/max-stack",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Find Leaves of Binary Tree",
+      "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
+      "category": "Linkedin"
+    },
+    {
+      "question": "All O'one Data Structure",
+      "link": "https://leetcode.com/problems/all-oone-data-structure",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Can Place Flowers",
+      "link": "https://leetcode.com/problems/can-place-flowers",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Factor Combinations",
+      "link": "https://leetcode.com/problems/factor-combinations",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Paint House",
+      "link": "https://leetcode.com/problems/paint-house",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Paint House II",
+      "link": "https://leetcode.com/problems/paint-house-ii",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Evaluate Reverse Polish Notation",
+      "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Shortest Word Distance",
+      "link": "https://leetcode.com/problems/shortest-word-distance",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Text Justification",
+      "link": "https://leetcode.com/problems/text-justification",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Count Different Palindromic Subsequences",
+      "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Binary Tree Upside Down",
+      "link": "https://leetcode.com/problems/binary-tree-upside-down",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Max Points on a Line",
+      "link": "https://leetcode.com/problems/max-points-on-a-line",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Partition to K Equal Sum Subsets",
+      "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Insert Delete GetRandom O(1)",
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Number of Islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Exclusive Time of Functions",
+      "link": "https://leetcode.com/problems/exclusive-time-of-functions",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Valid Triangle Number",
+      "link": "https://leetcode.com/problems/valid-triangle-number",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Valid Number",
+      "link": "https://leetcode.com/problems/valid-number",
+      "category": "Linkedin"
+    },
+    {
+      "question": "Repeated DNA Sequences",
+      "link": "https://leetcode.com/problems/repeated-dna-sequences",
+      "category": "Linkedin"
+    }
+  ]
+}

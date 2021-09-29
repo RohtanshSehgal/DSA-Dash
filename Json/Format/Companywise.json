@@ -1,0 +1,88 @@
+{
+  "companys": [
+    {
+      "Google": {
+        "gfg": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "leetcode": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "techiedelight": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ]
+      },
+      "Facebook": {
+        "gfg": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "leetcode": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "techiedelight": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ]
+      },
+      "AMazon": {
+        "gfg": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "leetcode": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "techiedelight": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ]
+      }
+    },
+    {
+      "mustdo": {
+        "gfg": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "leetcode": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ],
+        "techiedelight": [
+          {
+            "link": "",
+            "name": ""
+          }
+        ]
+      }
+    }
+  ]
+}

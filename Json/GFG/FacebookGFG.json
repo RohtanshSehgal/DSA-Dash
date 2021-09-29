@@ -1,0 +1,82 @@
+{
+  "website": "GFG",
+  "response": true,
+  "length": 15,
+  "results": [
+    {
+      "question": "Subarray with given sum",
+      "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Find all pairs with a given sum",
+      "link": "https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Total Decoding Messages",
+      "link": "https://practice.geeksforgeeks.org/problems/total-decoding-messages/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Word Boggle",
+      "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Activity Selection",
+      "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Minimum Depth of a Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Implement strstr",
+      "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Multiply two strings",
+      "link": "https://practice.geeksforgeeks.org/problems/multiply-two-strings/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "K-Palindrome",
+      "link": "https://practice.geeksforgeeks.org/problems/k-palindrome/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Find triplets with zero sum",
+      "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Largest subset whose all elements are Fibonacci numbers",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-fibonacci-subsequence/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Look-and-Say Sequence",
+      "link": "https://practice.geeksforgeeks.org/problems/decode-the-pattern/0",
+      "category": "Facebook"
+    },
+    {
+      "question": "Converting Decimal Number lying between 1 to 3999 to Roman Numerals",
+      "link": "https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Convert Ternary Expression to Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/convert-ternary-expression-to-binary-tree/1",
+      "category": "Facebook"
+    },
+    {
+      "question": "Maximum Rectangular Area in a Histogram",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+      "category": "Facebook"
+    }
+  ]
+}

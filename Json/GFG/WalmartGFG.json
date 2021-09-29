@@ -1,0 +1,82 @@
+{
+  "website": "GFG",
+  "response": true,
+  "length": 15,
+  "results": [
+    {
+      "question": "Longest consecutive subsequence",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Largest number in K swaps",
+      "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "k largest elements",
+      "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Word Break",
+      "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Find the highest occurring digit in prime numbers in a range",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-highest-occurring-digit-in-prime-numbers-in-a-range/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Count all possible paths from top left to bottom right",
+      "link": "https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Minimum Platforms",
+      "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Parenthesis Checker",
+      "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+      "category": "Walmart"
+    },
+    {
+      "question": "Implement LRU Cache",
+      "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Josephus Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Top View of Binary Tree",
+      "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Intersection of Two Linked Lists",
+      "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Alien Dictionary",
+      "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Remove Loop in Linked List",
+      "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
+      "category": "Walmart"
+    },
+    {
+      "question": "Wildcard Pattern Matching",
+      "link": "https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1",
+      "category": "Walmart"
+    }
+  ]
+}

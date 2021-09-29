@@ -1,0 +1,82 @@
+{
+  "website": "GFG",
+  "response": true,
+  "length": 15,
+  "results": [
+    {
+      "question": "Subarray with given sum",
+      "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
+      "category": "Google"
+    },
+    {
+      "question": "Maximum Index",
+      "link": "https://practice.geeksforgeeks.org/problems/maximum-index/0",
+      "category": "Google"
+    },
+    {
+      "question": "Finding the numbers",
+      "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers/0",
+      "category": "Google"
+    },
+    {
+      "question": "Longest valid Parentheses",
+      "link": "https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0",
+      "category": "Google"
+    },
+    {
+      "question": "Jumping Numbers",
+      "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0",
+      "category": "Google"
+    },
+    {
+      "question": "Connect Nodes at Same Level",
+      "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
+      "category": "Google"
+    },
+    {
+      "question": "Count BST nodes that lie in a given range",
+      "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+      "category": "Google"
+    },
+    {
+      "question": "Implement LRU Cache",
+      "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+      "category": "Google"
+    },
+    {
+      "question": "Interleaved Strings",
+      "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+      "category": "Google"
+    },
+    {
+      "question": "Find triplets with zero sum",
+      "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
+      "category": "Google"
+    },
+    {
+      "question": "Egg Dropping Puzzle",
+      "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+      "category": "Google"
+    },
+    {
+      "question": "Word Break Problem",
+      "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
+      "category": "Google"
+    },
+    {
+      "question": "Check if a Binary Tree contains duplicate subtrees of size 2 or more",
+      "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+      "category": "Google"
+    },
+    {
+      "question": "Find largest word in dictionary by deleting some characters of given string",
+      "link": "https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary/0",
+      "category": "Google"
+    },
+    {
+      "question": "Modular Exponentiation (Power in Modular Arithmetic)",
+      "link": "https://practice.geeksforgeeks.org/problems/number-of-subsets-and-mean/0",
+      "category": "Google"
+    }
+  ]
+}

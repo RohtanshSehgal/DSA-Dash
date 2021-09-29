@@ -1,0 +1,392 @@
+{
+  "website": "leetcode",
+  "response": true,
+  "length": 77,
+  "results": [
+    {
+      "question": "Two Sum",
+      "link": "https://leetcode.com/problems/two-sum",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Substring Without Repeating Characters",
+      "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Container With Most Water",
+      "link": "https://leetcode.com/problems/container-with-most-water",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "3Sum",
+      "link": "https://leetcode.com/problems/3sum",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Remove Nth Node From End of List",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Valid Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Merge k Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Search in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Combination Sum",
+      "link": "https://leetcode.com/problems/combination-sum",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Rotate Image",
+      "link": "https://leetcode.com/problems/rotate-image",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Group Anagrams",
+      "link": "https://leetcode.com/problems/group-anagrams",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Maximum Subarray",
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Jump Game",
+      "link": "https://leetcode.com/problems/jump-game",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Insert Interval",
+      "link": "https://leetcode.com/problems/insert-interval",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Unique Paths",
+      "link": "https://leetcode.com/problems/unique-paths",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Climbing Stairs",
+      "link": "https://leetcode.com/problems/climbing-stairs",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Set Matrix Zeroes",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Minimum Window Substring",
+      "link": "https://leetcode.com/problems/minimum-window-substring",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Word Search",
+      "link": "https://leetcode.com/problems/word-search",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Decode Ways",
+      "link": "https://leetcode.com/problems/decode-ways",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Validate Binary Search Tree",
+      "link": "https://leetcode.com/problems/validate-binary-search-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Same Tree",
+      "link": "https://leetcode.com/problems/same-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Binary Tree Level Order Traversal",
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Maximum Depth of Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Construct Binary Tree from Preorder and Inorder Traversal",
+      "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Best Time to Buy and Sell Stock",
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Binary Tree Maximum Path Sum",
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Valid Palindrome",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Consecutive Sequence",
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Clone Graph",
+      "link": "https://leetcode.com/problems/clone-graph",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Word Break",
+      "link": "https://leetcode.com/problems/word-break",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Linked List Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Reorder List",
+      "link": "https://leetcode.com/problems/reorder-list",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Maximum Product Subarray",
+      "link": "https://leetcode.com/problems/maximum-product-subarray",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Find Minimum in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Reverse Bits",
+      "link": "https://leetcode.com/problems/reverse-bits",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Number of 1 Bits",
+      "link": "https://leetcode.com/problems/number-of-1-bits",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "House Robber",
+      "link": "https://leetcode.com/problems/house-robber",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Number of Islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Reverse Linked List",
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Course Schedule",
+      "link": "https://leetcode.com/problems/course-schedule",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Implement Trie (Prefix Tree)",
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Design Add and Search Words Data Structure",
+      "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Word Search II",
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "House Robber II",
+      "link": "https://leetcode.com/problems/house-robber-ii",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Contains Duplicate",
+      "link": "https://leetcode.com/problems/contains-duplicate",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Invert Binary Tree",
+      "link": "https://leetcode.com/problems/invert-binary-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Kth Smallest Element in a BST",
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Lowest Common Ancestor of a Binary Search Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Lowest Common Ancestor of a Binary Tree",
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Product of Array Except Self",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Valid Anagram",
+      "link": "https://leetcode.com/problems/valid-anagram",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Meeting Rooms",
+      "link": "https://leetcode.com/problems/meeting-rooms",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Meeting Rooms II",
+      "link": "https://leetcode.com/problems/meeting-rooms-ii",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Graph Valid Tree",
+      "link": "https://leetcode.com/problems/graph-valid-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Missing Number",
+      "link": "https://leetcode.com/problems/missing-number",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Alien Dictionary",
+      "link": "https://leetcode.com/problems/alien-dictionary",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Encode and Decode Strings",
+      "link": "https://leetcode.com/problems/encode-and-decode-strings",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Find Median from Data Stream",
+      "link": "https://leetcode.com/problems/find-median-from-data-stream",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Increasing Subsequence",
+      "link": "https://leetcode.com/problems/longest-increasing-subsequence",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Coin Change",
+      "link": "https://leetcode.com/problems/coin-change",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Number of Connected Components in an Undirected Graph",
+      "link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Counting Bits",
+      "link": "https://leetcode.com/problems/counting-bits",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Top K Frequent Elements",
+      "link": "https://leetcode.com/problems/top-k-frequent-elements",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Sum of Two Integers",
+      "link": "https://leetcode.com/problems/sum-of-two-integers",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Pacific Atlantic Water Flow",
+      "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Repeating Character Replacement",
+      "link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Non-overlapping Intervals",
+      "link": "https://leetcode.com/problems/non-overlapping-intervals",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Serialize and Deserialize BST",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Subtree of Another Tree",
+      "link": "https://leetcode.com/problems/subtree-of-another-tree",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Palindromic Substrings",
+      "link": "https://leetcode.com/problems/palindromic-substrings",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Longest Common Subsequence",
+      "link": "https://leetcode.com/problems/longest-common-subsequence",
+      "category": "Faang must do questions"
+    },
+    {
+      "question": "Find the Duplicate Number",
+      "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "category": "Faang must do questions"
+    }
+  ]
+}

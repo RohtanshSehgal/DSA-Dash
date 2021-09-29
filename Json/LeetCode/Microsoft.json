@@ -1,0 +1,272 @@
+{
+  "website": "leetcode",
+  "response": true,
+  "length": 53,
+  "results": [
+    {
+      "question": "Two Sum",
+      "link": "https://leetcode.com/problems/two-sum",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Add Two Numbers",
+      "link": "https://leetcode.com/problems/add-two-numbers",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Median of Two Sorted Arrays",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring",
+      "category": "Microsoft"
+    },
+    {
+      "question": "String to Integer (atoi)",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Roman to Integer",
+      "link": "https://leetcode.com/problems/roman-to-integer",
+      "category": "Microsoft"
+    },
+    {
+      "question": "3Sum",
+      "link": "https://leetcode.com/problems/3sum",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Valid Parentheses",
+      "link": "https://leetcode.com/problems/valid-parentheses",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Merge k Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Swap Nodes in Pairs",
+      "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Reverse Nodes in k-Group",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Remove Duplicates from Sorted Array",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Implement strStr()",
+      "link": "https://leetcode.com/problems/implement-strstr",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Search in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Maximum Subarray",
+      "link": "https://leetcode.com/problems/maximum-subarray",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Jump Game",
+      "link": "https://leetcode.com/problems/jump-game",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Binary Tree Maximum Path Sum",
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Valid Palindrome",
+      "link": "https://leetcode.com/problems/valid-palindrome",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Copy List with Random Pointer",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Linked List Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle",
+      "category": "Microsoft"
+    },
+    {
+      "question": "LRU Cache",
+      "link": "https://leetcode.com/problems/lru-cache",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Reverse Words in a String",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Find Minimum in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Find Peak Element",
+      "link": "https://leetcode.com/problems/find-peak-element",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Excel Sheet Column Title",
+      "link": "https://leetcode.com/problems/excel-sheet-column-title",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Excel Sheet Column Number",
+      "link": "https://leetcode.com/problems/excel-sheet-column-number",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Binary Search Tree Iterator",
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Rotate Array",
+      "link": "https://leetcode.com/problems/rotate-array",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Number of 1 Bits",
+      "link": "https://leetcode.com/problems/number-of-1-bits",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Number of Islands",
+      "link": "https://leetcode.com/problems/number-of-islands",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Reverse Linked List",
+      "link": "https://leetcode.com/problems/reverse-linked-list",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Implement Trie (Prefix Tree)",
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Word Search II",
+      "link": "https://leetcode.com/problems/word-search-ii",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Kth Largest Element in an Array",
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+      "category": "Microsoft"
+    },
+    {
+      "question": "The Skyline Problem",
+      "link": "https://leetcode.com/problems/the-skyline-problem",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Delete Node in a Linked List",
+      "link": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Product of Array Except Self",
+      "link": "https://leetcode.com/problems/product-of-array-except-self",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Add Digits",
+      "link": "https://leetcode.com/problems/add-digits",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Missing Number",
+      "link": "https://leetcode.com/problems/missing-number",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Serialize and Deserialize Binary Tree",
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+      "category": "Microsoft"
+    },
+    {
+      "question": "First Unique Character in a String",
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Arithmetic Slices",
+      "link": "https://leetcode.com/problems/arithmetic-slices",
+      "category": "Microsoft"
+    },
+    {
+      "question": "String Compression",
+      "link": "https://leetcode.com/problems/string-compression",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Max Chunks To Make Sorted",
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Valid Tic-Tac-Toe State",
+      "link": "https://leetcode.com/problems/valid-tic-tac-toe-state",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Maximum Length of a Concatenated String with Unique Characters",
+      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Find N Unique Integers Sum up to Zero",
+      "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Jump Game III",
+      "link": "https://leetcode.com/problems/jump-game-iii",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Cinema Seat Allocation",
+      "link": "https://leetcode.com/problems/cinema-seat-allocation",
+      "category": "Microsoft"
+    },
+    {
+      "question": "Bulb Switcher III",
+      "link": "https://leetcode.com/problems/bulb-switcher-iii",
+      "category": "Microsoft"
+    }
+  ]
+}

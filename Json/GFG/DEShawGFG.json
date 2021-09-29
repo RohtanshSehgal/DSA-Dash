@@ -1,0 +1,82 @@
+{
+  "website": "GFG",
+  "response": true,
+  "length": 15,
+  "results": [
+    {
+      "question": "Majority Element",
+      "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Search in a Rotated Array",
+      "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Sum of Middle Elements of two sorted arrays",
+      "link": "https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Non Repeating Character",
+      "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Kadane’s Algorithm",
+      "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Intersection of two sorted Linked lists",
+      "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Detect Loop in linked list",
+      "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Print all nodes that don’t have sibling",
+      "link": "https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Two Mirror Trees",
+      "link": "https://practice.geeksforgeeks.org/problems/two-mirror-trees/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Intersection Point in Y Shapped Linked Lists",
+      "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Trie | (Insert and Search)",
+      "link": "https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Implement Queue using Stacks",
+      "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Implement Stack using Queues",
+      "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Find the number of islands",
+      "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+      "category": "D E Shaw"
+    },
+    {
+      "question": "Copy Set Bits in Range",
+      "link": "https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range/0",
+      "category": "D E Shaw"
+    }
+  ]
+}

@@ -1,46 +1,44 @@
 {
-  "topics": [
-    {
-      "gfg": {
-        "array": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ],
-        "stack": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ],
-        "bst": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ]
-      },
-      "leetcode": {
-        "array": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ],
-        "stack": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ],
-        "bst": [
-          {
-            "link": "",
-            "name": ""
-          }
-        ]
-      }
+  "topics": {
+    "gfg": {
+      "array": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ],
+      "stack": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ],
+      "bst": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ]
+    },
+    "leetcode": {
+      "array": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ],
+      "stack": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ],
+      "bst": [
+        {
+          "link": "",
+          "name": ""
+        }
+      ]
     }
-  ]
+  }
 }

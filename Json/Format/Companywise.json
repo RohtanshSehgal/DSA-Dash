@@ -3,17 +3,67 @@
     "Google": {
       "gfg": [
         {
-          "link": "",
-          "name": ""
+          "question": "Subarray with given sum",
+          "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0"
+        },
+        {
+          "question": "Maximum Index",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-index/0"
+        },
+        {
+          "question": "Finding the numbers",
+          "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers/0"
+        },
+        {
+          "question": "Longest valid Parentheses",
+          "link": "https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0"
+        },
+        {
+          "question": "Jumping Numbers",
+          "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0"
+        },
+        {
+          "question": "Connect Nodes at Same Level",
+          "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1"
+        },
+        {
+          "question": "Count BST nodes that lie in a given range",
+          "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1"
+        },
+        {
+          "question": "Implement LRU Cache",
+          "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
+        },
+        {
+          "question": "Interleaved Strings",
+          "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1"
+        },
+        {
+          "question": "Find triplets with zero sum",
+          "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1"
+        },
+        {
+          "question": "Egg Dropping Puzzle",
+          "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0"
+        },
+        {
+          "question": "Word Break Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/word-break/0"
+        },
+        {
+          "question": "Check if a Binary Tree contains duplicate subtrees of size 2 or more",
+          "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1"
+        },
+        {
+          "question": "Find largest word in dictionary by deleting some characters of given string",
+          "link": "https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary/0"
+        },
+        {
+          "question": "Modular Exponentiation (Power in Modular Arithmetic)",
+          "link": "https://practice.geeksforgeeks.org/problems/number-of-subsets-and-mean/0"
         }
       ],
       "leetcode": [
-        {
-          "link": "",
-          "name": ""
-        }
-      ],
-      "techiedelight": [
         {
           "link": "",
           "name": ""
@@ -23,28 +73,156 @@
     "Facebook": {
       "gfg": [
         {
-          "link": "",
-          "name": ""
+          "question": "Subarray with given sum",
+          "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0"
+        },
+        {
+          "question": "Find all pairs with a given sum",
+          "link": "https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0"
+        },
+        {
+          "question": "Total Decoding Messages",
+          "link": "https://practice.geeksforgeeks.org/problems/total-decoding-messages/0"
+        },
+        {
+          "question": "Word Boggle",
+          "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0"
+        },
+        {
+          "question": "Activity Selection",
+          "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
+          "category": "Facebook"
+        },
+        {
+          "question": "Minimum Depth of a Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1",
+          "category": "Facebook"
+        },
+        {
+          "question": "Implement strstr",
+          "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1"
+        },
+        {
+          "question": "Multiply two strings",
+          "link": "https://practice.geeksforgeeks.org/problems/multiply-two-strings/1"
+        },
+        {
+          "question": "K-Palindrome",
+          "link": "https://practice.geeksforgeeks.org/problems/k-palindrome/1"
+        },
+        {
+          "question": "Find triplets with zero sum",
+          "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1"
+        },
+        {
+          "question": "Largest subset whose all elements are Fibonacci numbers",
+          "link": "https://practice.geeksforgeeks.org/problems/largest-fibonacci-subsequence/0"
+        },
+        {
+          "question": "Look-and-Say Sequence",
+          "link": "https://practice.geeksforgeeks.org/problems/decode-the-pattern/0"
+        },
+        {
+          "question": "Converting Decimal Number lying between 1 to 3999 to Roman Numerals",
+          "link": "https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1"
+        },
+        {
+          "question": "Convert Ternary Expression to Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/convert-ternary-expression-to-binary-tree/1"
+        },
+        {
+          "question": "Maximum Rectangular Area in a Histogram",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0"
         }
       ],
       "leetcode": [
-        {
-          "link": "",
-          "name": ""
-        }
-      ],
-      "techiedelight": [
         {
           "link": "",
           "name": ""
         }
       ]
     },
-    "AMazon": {
+    "Amazon": {
       "gfg": [
         {
-          "link": "",
-          "name": ""
+          "question": "K largest elements from a big file or array",
+          "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0"
+        },
+        {
+          "question": "Reverse a Linked List in groups of given size",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+        },
+        {
+          "question": "Implement a stack with push(), pop() and min() in O(1) time",
+          "link": "https://practice.geeksforgeeks.org/problems/special-stack/1"
+        },
+        {
+          "question": "Add two numbers represented by linked lists",
+          "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1"
+        },
+        {
+          "question": "Convert a Binary tree to DLL",
+          "link": "https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/"
+        },
+        {
+          "question": "Stock span problem",
+          "link": "https://practice.geeksforgeeks.org/problems/stock-span-problem/0"
+        },
+        {
+          "question": "Next larger element",
+          "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0"
+        },
+        {
+          "question": "Edit distance",
+          "link": "https://practice.geeksforgeeks.org/problems/edit-distance/0"
+        },
+        {
+          "question": "Maximum of all subarrays of size k",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0"
+        },
+        {
+          "question": "Pythagorean Triplet",
+          "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0"
+        },
+        {
+          "question": "Print a Binary Tree in Vertical Order",
+          "link": "https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1"
+        },
+        {
+          "question": "Level order traversal",
+          "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1"
+        },
+        {
+          "question": "Smallest window in a string containing all the characters of another string",
+          "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0"
+        },
+        {
+          "question": "Find the number of islands",
+          "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+        },
+        {
+          "question": "Detect and Remove Loop in a Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+        },
+        {
+          "question": "Check if a binary tree is BST or not",
+          "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1"
+        },
+        {
+          "question": "Boolean Parenthesization",
+          "link": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0"
+        },
+        {
+          "question": "Arrange given numbers to form the biggest number",
+          "link": "https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0"
+        },
+        {
+          "question": "Implement LRU Cache",
+          "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
+        },
+        {
+          "question": "Maximum difference between node and its ancestor in Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1"
         }
       ],
       "leetcode": [
@@ -52,11 +230,514 @@
           "link": "",
           "name": ""
         }
-      ],
-      "techiedelight": [
+      ]
+    },
+    "Microsoft": {
+      "gfg": [
         {
-          "link": "",
-          "name": ""
+          "question": "Key Pair",
+          "link": "https://practice.geeksforgeeks.org/problems/key-pair/0"
+        },
+        {
+          "question": "Is Binary Number Multiple of 3",
+          "link": "https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-3/0"
+        },
+        {
+          "question": "Kadane’s Algorithm",
+          "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+        },
+        {
+          "question": "Missing number in array",
+          "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0"
+        },
+        {
+          "question": "Majority Element",
+          "link": "https://practice.geeksforgeeks.org/problems/majority-element/0"
+        },
+        {
+          "question": "Search in a Rotated Array",
+          "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0"
+        },
+        {
+          "question": "Check for BST",
+          "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1"
+        },
+        {
+          "question": "Finding middle element in a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1"
+        },
+        {
+          "question": "Root to leaf path sum",
+          "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1"
+        },
+        {
+          "question": "Reverse a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1"
+        },
+        {
+          "question": "Remove every k’th node",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1"
+        },
+        {
+          "question": "Merge 2 sorted linked list in reverse order",
+          "link": "https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1"
+        },
+        {
+          "question": "Longest Even Length Substring such that Sum of First and Second Half is same",
+          "link": "https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0"
+        },
+        {
+          "question": "k largest(or smallest) elements in an array | added Min Heap method",
+          "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0"
+        },
+        {
+          "question": "Write an Efficient Function to Convert a Binary Tree into its Mirror Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1"
+        },
+        {
+          "question": "Determine if Two Trees are Identical",
+          "link": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1"
+        }
+      ]
+    },
+    "Paytm": {
+      "gfg": [
+        {
+          "question": "Sort an array of 0s, 1s and 2s",
+          "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
+        },
+        {
+          "question": "Reverse words in a given string",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0"
+        },
+        {
+          "question": "Reverse a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1"
+        },
+        {
+          "question": "Reverse a Linked List in groups of given size",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
+        },
+        {
+          "question": "Max Sum without Adjacents",
+          "link": "https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0"
+        },
+        {
+          "question": "Mirror Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1"
+        },
+        {
+          "question": "Flattening a Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+        },
+        {
+          "question": "Check for Balanced Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1"
+        },
+        {
+          "question": "Find the number of islands",
+          "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+        },
+        {
+          "question": "Coin Change",
+          "link": "https://practice.geeksforgeeks.org/problems/coin-change/0"
+        },
+        {
+          "question": "Count frequencies of all elements in array in O(1) extra space and O(n) time",
+          "link": "https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0"
+        },
+        {
+          "question": "Convert array into Zig-Zag fashion",
+          "link": "https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/"
+        },
+        {
+          "question": "Find the row with maximum number of 1s",
+          "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s/0"
+        },
+        {
+          "question": "Maximum Rectangular Area in a Histogram",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0"
+        }
+      ]
+    },
+    "Walmart": {
+      "gfg": [
+        {
+          "question": "Longest consecutive subsequence",
+          "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0"
+        },
+        {
+          "question": "Largest number in K swaps",
+          "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0"
+        },
+        {
+          "question": "k largest elements",
+          "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0"
+        },
+        {
+          "question": "Word Break",
+          "link": "https://practice.geeksforgeeks.org/problems/word-break/0"
+        },
+        {
+          "question": "Find the highest occurring digit in prime numbers in a range",
+          "link": "https://practice.geeksforgeeks.org/problems/find-the-highest-occurring-digit-in-prime-numbers-in-a-range/0"
+        },
+        {
+          "question": "Count all possible paths from top left to bottom right",
+          "link": "https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0"
+        },
+        {
+          "question": "Minimum Platforms",
+          "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0"
+        },
+        {
+          "question": "Parenthesis Checker",
+          "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0"
+        },
+        {
+          "question": "Implement LRU Cache",
+          "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1"
+        },
+        {
+          "question": "Josephus Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/josephus-problem/1"
+        },
+        {
+          "question": "Top View of Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+        },
+        {
+          "question": "Intersection of Two Linked Lists",
+          "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1"
+        },
+        {
+          "question": "Alien Dictionary",
+          "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1"
+        },
+        {
+          "question": "Remove Loop in Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+        },
+        {
+          "question": "Wildcard Pattern Matching",
+          "link": "https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1"
+        }
+      ]
+    },
+    "Adobe": {
+      "gfg": [
+        {
+          "question": "Search in a Rotated Array",
+          "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0"
+        },
+        {
+          "question": "Subset Sum Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem/0"
+        },
+        {
+          "question": "Reverse words in a given string",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0"
+        },
+        {
+          "question": "Sort an array of 0s, 1s and 2s",
+          "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
+        },
+        {
+          "question": "Minimum number of jumps",
+          "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0"
+        },
+        {
+          "question": "Check for BST",
+          "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1"
+        },
+        {
+          "question": "Root to leaf path sum",
+          "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1"
+        },
+        {
+          "question": "Sum Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1"
+        },
+        {
+          "question": "Finding middle element in a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1"
+        },
+        {
+          "question": "Reverse a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1"
+        },
+        {
+          "question": "Level order traversal in spiral form",
+          "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1"
+        },
+        {
+          "question": "Right View of Binary Tree",
+          "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1"
+        },
+        {
+          "question": "Remove duplicate element from sorted Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1"
+        },
+        {
+          "question": "Merge Sort for Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1"
+        },
+        {
+          "question": "Count set bits in an integer",
+          "link": "https://practice.geeksforgeeks.org/problems/set-bits/0"
+        }
+      ]
+    },
+    "Directi": {
+      "gfg": [
+        {
+          "question": "Maximum of all subarrays of size k",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0"
+        },
+        {
+          "question": "Search in a matrix",
+          "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0"
+        },
+        {
+          "question": "Word Boggle",
+          "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0"
+        },
+        {
+          "question": "Jumping Numbers",
+          "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0"
+        },
+        {
+          "question": "Transform String",
+          "link": "https://practice.geeksforgeeks.org/problems/transform-string/0"
+        },
+        {
+          "question": "Solve the Sudoku",
+          "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0"
+        },
+        {
+          "question": "Find Nth root of M",
+          "link": "https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0"
+        },
+        {
+          "question": "Array Pair Sum Divisibility Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0"
+        },
+        {
+          "question": "Largest zigzag sequence",
+          "link": "https://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0"
+        },
+        {
+          "question": "Maximum Intervals Overlap",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0"
+        },
+        {
+          "question": "Max rectangle",
+          "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1"
+        },
+        {
+          "question": "Maximum path sum",
+          "link": "https://practice.geeksforgeeks.org/problems/maximum-path-sum/1"
+        },
+        {
+          "question": "Maximize Dot Product",
+          "link": "https://practice.geeksforgeeks.org/problems/maximize-dot-product/0"
+        },
+        {
+          "question": "Excel Sheet | Part – 1",
+          "link": "https://practice.geeksforgeeks.org/problems/excel-sheet/0"
+        },
+        {
+          "question": "Probability of Knight",
+          "link": "https://practice.geeksforgeeks.org/problems/probability-of-knight/0"
+        }
+      ]
+    },
+    "DE Shaw": {
+      "gfg": [
+        {
+          "question": "Majority Element",
+          "link": "https://practice.geeksforgeeks.org/problems/majority-element/0"
+        },
+        {
+          "question": "Search in a Rotated Array",
+          "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0"
+        },
+        {
+          "question": "Sum of Middle Elements of two sorted arrays",
+          "link": "https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0"
+        },
+        {
+          "question": "Non Repeating Character",
+          "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0"
+        },
+        {
+          "question": "Kadane’s Algorithm",
+          "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+        },
+        {
+          "question": "Intersection of two sorted Linked lists",
+          "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1"
+        },
+        {
+          "question": "Detect Loop in linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1"
+        },
+        {
+          "question": "Print all nodes that don’t have sibling",
+          "link": "https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1"
+        },
+        {
+          "question": "Two Mirror Trees",
+          "link": "https://practice.geeksforgeeks.org/problems/two-mirror-trees/1"
+        },
+        {
+          "question": "Intersection Point in Y Shapped Linked Lists",
+          "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1"
+        },
+        {
+          "question": "Trie | (Insert and Search)",
+          "link": "https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0"
+        },
+        {
+          "question": "Implement Queue using Stacks",
+          "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+        },
+        {
+          "question": "Implement Stack using Queues",
+          "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1"
+        },
+        {
+          "question": "Find the number of islands",
+          "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1"
+        },
+        {
+          "question": "Copy Set Bits in Range",
+          "link": "https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range/0"
+        }
+      ]
+    },
+    "Oracle": {
+      "gfg": [
+        {
+          "question": "0 – 1 Knapsack Problem",
+          "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0"
+        },
+        {
+          "question": "Search in a matrix",
+          "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0"
+        },
+        {
+          "question": "Power of 2",
+          "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0"
+        },
+        {
+          "question": "Palindrome",
+          "link": "https://practice.geeksforgeeks.org/problems/palindrome/0"
+        },
+        {
+          "question": "Root to leaf path sum",
+          "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1"
+        },
+        {
+          "question": "Kadane’s Algorithm",
+          "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0"
+        },
+        {
+          "question": "Binary Search",
+          "link": "https://practice.geeksforgeeks.org/problems/binary-search/1"
+        },
+        {
+          "question": "Implement Queue using Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1"
+        },
+        {
+          "question": "Connect Nodes at Same Level",
+          "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1"
+        },
+        {
+          "question": "Remove loop in Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1"
+        },
+        {
+          "question": "Implement Stack using Queues",
+          "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1"
+        },
+        {
+          "question": "Implement Queue using Stacks",
+          "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+        },
+        {
+          "question": "Remove duplicate element from sorted Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1"
+        },
+        {
+          "question": "Find the first repeating element in an array of integers",
+          "link": "https://practice.geeksforgeeks.org/problems/first-repeating-element/0"
+        }
+      ]
+    },
+    "MAQ": {
+      "gfg": [
+        {
+          "question": "Sort an array of 0s, 1s and 2s",
+          "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0"
+        },
+        {
+          "question": "Permutations of a given string",
+          "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0"
+        },
+        {
+          "question": "Rotate Array by n elements",
+          "link": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0",
+          "category": "MAQ Software"
+        },
+        {
+          "question": "Non Repeating Character",
+          "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0"
+        },
+        {
+          "question": "Nth Fibonacci Number",
+          "link": "https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0"
+        },
+        {
+          "question": "Finding middle element in a linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1"
+        },
+        {
+          "question": "n’th node from end of linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1"
+        },
+        {
+          "question": "Detect Loop in linked list",
+          "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1"
+        },
+        {
+          "question": "Implement Queue using Stacks",
+          "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1"
+        },
+        {
+          "question": "Find Missing And Repeating",
+          "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0"
+        },
+        {
+          "question": "Find the Closest Element in BST",
+          "link": "https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1"
+        },
+        {
+          "question": "Check if a linked list is Circular Linked List",
+          "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1"
+        },
+        {
+          "question": "Reverse a String",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-the-string/0"
+        },
+        {
+          "question": "Reverse words in a given string",
+          "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0"
+        },
+        {
+          "question": "Egg Dropping Puzzle",
+          "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0"
         }
       ]
     }

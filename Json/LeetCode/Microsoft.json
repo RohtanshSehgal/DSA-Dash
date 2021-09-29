@@ -5,268 +5,215 @@
   "results": [
     {
       "question": "Two Sum",
-      "link": "https://leetcode.com/problems/two-sum",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/two-sum"
     },
     {
       "question": "Add Two Numbers",
-      "link": "https://leetcode.com/problems/add-two-numbers",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/add-two-numbers"
     },
     {
       "question": "Median of Two Sorted Arrays",
-      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays"
     },
     {
       "question": "Longest Palindromic Substring",
-      "link": "https://leetcode.com/problems/longest-palindromic-substring",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/longest-palindromic-substring"
     },
     {
       "question": "String to Integer (atoi)",
-      "link": "https://leetcode.com/problems/string-to-integer-atoi",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/string-to-integer-atoi"
     },
     {
       "question": "Roman to Integer",
-      "link": "https://leetcode.com/problems/roman-to-integer",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/roman-to-integer"
     },
     {
       "question": "3Sum",
-      "link": "https://leetcode.com/problems/3sum",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/3sum"
     },
     {
       "question": "Valid Parentheses",
-      "link": "https://leetcode.com/problems/valid-parentheses",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/valid-parentheses"
     },
     {
       "question": "Merge Two Sorted Lists",
-      "link": "https://leetcode.com/problems/merge-two-sorted-lists",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists"
     },
     {
       "question": "Merge k Sorted Lists",
-      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists"
     },
     {
       "question": "Swap Nodes in Pairs",
-      "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/swap-nodes-in-pairs"
     },
     {
       "question": "Reverse Nodes in k-Group",
-      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
     },
     {
       "question": "Remove Duplicates from Sorted Array",
-      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
     },
     {
       "question": "Implement strStr()",
-      "link": "https://leetcode.com/problems/implement-strstr",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/implement-strstr"
     },
     {
       "question": "Search in Rotated Sorted Array",
-      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
     },
     {
       "question": "Maximum Subarray",
-      "link": "https://leetcode.com/problems/maximum-subarray",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/maximum-subarray"
     },
     {
       "question": "Spiral Matrix",
-      "link": "https://leetcode.com/problems/spiral-matrix",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/spiral-matrix"
     },
     {
       "question": "Jump Game",
-      "link": "https://leetcode.com/problems/jump-game",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/jump-game"
     },
     {
       "question": "Merge Intervals",
-      "link": "https://leetcode.com/problems/merge-intervals",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/merge-intervals"
     },
     {
       "question": "Binary Tree Maximum Path Sum",
-      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
     },
     {
       "question": "Valid Palindrome",
-      "link": "https://leetcode.com/problems/valid-palindrome",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/valid-palindrome"
     },
     {
       "question": "Copy List with Random Pointer",
-      "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer"
     },
     {
       "question": "Linked List Cycle",
-      "link": "https://leetcode.com/problems/linked-list-cycle",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/linked-list-cycle"
     },
     {
       "question": "LRU Cache",
-      "link": "https://leetcode.com/problems/lru-cache",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/lru-cache"
     },
     {
       "question": "Reverse Words in a String",
-      "link": "https://leetcode.com/problems/reverse-words-in-a-string",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string"
     },
     {
       "question": "Find Minimum in Rotated Sorted Array",
-      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array"
     },
     {
       "question": "Find Peak Element",
-      "link": "https://leetcode.com/problems/find-peak-element",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/find-peak-element"
     },
     {
       "question": "Excel Sheet Column Title",
-      "link": "https://leetcode.com/problems/excel-sheet-column-title",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/excel-sheet-column-title"
     },
     {
       "question": "Excel Sheet Column Number",
-      "link": "https://leetcode.com/problems/excel-sheet-column-number",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/excel-sheet-column-number"
     },
     {
       "question": "Binary Search Tree Iterator",
-      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator"
     },
     {
       "question": "Rotate Array",
-      "link": "https://leetcode.com/problems/rotate-array",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/rotate-array"
     },
     {
       "question": "Number of 1 Bits",
-      "link": "https://leetcode.com/problems/number-of-1-bits",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/number-of-1-bits"
     },
     {
       "question": "Number of Islands",
-      "link": "https://leetcode.com/problems/number-of-islands",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/number-of-islands"
     },
     {
       "question": "Reverse Linked List",
-      "link": "https://leetcode.com/problems/reverse-linked-list",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/reverse-linked-list"
     },
     {
       "question": "Implement Trie (Prefix Tree)",
-      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
     },
     {
       "question": "Word Search II",
-      "link": "https://leetcode.com/problems/word-search-ii",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/word-search-ii"
     },
     {
       "question": "Kth Largest Element in an Array",
-      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
     },
     {
       "question": "The Skyline Problem",
-      "link": "https://leetcode.com/problems/the-skyline-problem",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/the-skyline-problem"
     },
     {
       "question": "Delete Node in a Linked List",
-      "link": "https://leetcode.com/problems/delete-node-in-a-linked-list",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/delete-node-in-a-linked-list"
     },
     {
       "question": "Product of Array Except Self",
-      "link": "https://leetcode.com/problems/product-of-array-except-self",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/product-of-array-except-self"
     },
     {
       "question": "Add Digits",
-      "link": "https://leetcode.com/problems/add-digits",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/add-digits"
     },
     {
       "question": "Missing Number",
-      "link": "https://leetcode.com/problems/missing-number",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/missing-number"
     },
     {
       "question": "Serialize and Deserialize Binary Tree",
-      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
     },
     {
       "question": "First Unique Character in a String",
-      "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/first-unique-character-in-a-string"
     },
     {
       "question": "Arithmetic Slices",
-      "link": "https://leetcode.com/problems/arithmetic-slices",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/arithmetic-slices"
     },
     {
       "question": "String Compression",
-      "link": "https://leetcode.com/problems/string-compression",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/string-compression"
     },
     {
       "question": "Max Chunks To Make Sorted",
-      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/max-chunks-to-make-sorted"
     },
     {
       "question": "Valid Tic-Tac-Toe State",
-      "link": "https://leetcode.com/problems/valid-tic-tac-toe-state",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/valid-tic-tac-toe-state"
     },
     {
       "question": "Maximum Length of a Concatenated String with Unique Characters",
-      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters"
     },
     {
       "question": "Find N Unique Integers Sum up to Zero",
-      "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero"
     },
     {
       "question": "Jump Game III",
-      "link": "https://leetcode.com/problems/jump-game-iii",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/jump-game-iii"
     },
     {
       "question": "Cinema Seat Allocation",
-      "link": "https://leetcode.com/problems/cinema-seat-allocation",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/cinema-seat-allocation"
     },
     {
       "question": "Bulb Switcher III",
-      "link": "https://leetcode.com/problems/bulb-switcher-iii",
-      "category": "Microsoft"
+      "link": "https://leetcode.com/problems/bulb-switcher-iii"
     }
   ]
 }

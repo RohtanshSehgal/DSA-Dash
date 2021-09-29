@@ -5,403 +5,323 @@
   "results": [
     {
       "question": "Regular Expression Matching",
-      "link": "https://leetcode.com/problems/regular-expression-matching",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/regular-expression-matching"
     },
     {
       "question": "Roman to Integer",
-      "link": "https://leetcode.com/problems/roman-to-integer",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/roman-to-integer"
     },
     {
       "question": "3Sum",
-      "link": "https://leetcode.com/problems/3sum",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/3sum"
     },
     {
       "question": "Letter Combinations of a Phone Number",
-      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number"
     },
     {
       "question": "Valid Parentheses",
-      "link": "https://leetcode.com/problems/valid-parentheses",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/valid-parentheses"
     },
     {
       "question": "Merge k Sorted Lists",
-      "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/merge-k-sorted-lists"
     },
     {
       "question": "Reverse Nodes in k-Group",
-      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group"
     },
     {
       "question": "Remove Duplicates from Sorted Array",
-      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array"
     },
     {
       "question": "Implement strStr()",
-      "link": "https://leetcode.com/problems/implement-strstr",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/implement-strstr"
     },
     {
       "question": "Search in Rotated Sorted Array",
-      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array"
     },
     {
       "question": "Count and Say",
-      "link": "https://leetcode.com/problems/count-and-say",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/count-and-say"
     },
     {
       "question": "Wildcard Matching",
-      "link": "https://leetcode.com/problems/wildcard-matching",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/wildcard-matching"
     },
     {
       "question": "Pow(x, n)",
-      "link": "https://leetcode.com/problems/powx-n",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/powx-n"
     },
     {
       "question": "Merge Intervals",
-      "link": "https://leetcode.com/problems/merge-intervals",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/merge-intervals"
     },
     {
       "question": "Insert Interval",
-      "link": "https://leetcode.com/problems/insert-interval",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/insert-interval"
     },
     {
       "question": "Valid Palindrome",
-      "link": "https://leetcode.com/problems/valid-palindrome",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/valid-palindrome"
     },
     {
       "question": "Longest Consecutive Sequence",
-      "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/longest-consecutive-sequence"
     },
     {
       "question": "Clone Graph",
-      "link": "https://leetcode.com/problems/clone-graph",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/clone-graph"
     },
     {
       "question": "Word Break",
-      "link": "https://leetcode.com/problems/word-break",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/word-break"
     },
     {
       "question": "LRU Cache",
-      "link": "https://leetcode.com/problems/lru-cache",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/lru-cache"
     },
     {
       "question": "Binary Search Tree Iterator",
-      "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/binary-search-tree-iterator"
     },
     {
       "question": "Number of Islands",
-      "link": "https://leetcode.com/problems/number-of-islands",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/number-of-islands"
     },
     {
       "question": "Implement Trie (Prefix Tree)",
-      "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/implement-trie-prefix-tree"
     },
     {
       "question": "Kth Largest Element in an Array",
-      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/kth-largest-element-in-an-array"
     },
     {
       "question": "The Skyline Problem",
-      "link": "https://leetcode.com/problems/the-skyline-problem",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/the-skyline-problem"
     },
     {
       "question": "Maximal Square",
-      "link": "https://leetcode.com/problems/maximal-square",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/maximal-square"
     },
     {
       "question": "Binary Tree Paths",
-      "link": "https://leetcode.com/problems/binary-tree-paths",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/binary-tree-paths"
     },
     {
       "question": "H-Index",
-      "link": "https://leetcode.com/problems/h-index",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/h-index"
     },
     {
       "question": "Expression Add Operators",
-      "link": "https://leetcode.com/problems/expression-add-operators",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/expression-add-operators"
     },
     {
       "question": "Serialize and Deserialize Binary Tree",
-      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree"
     },
     {
       "question": "Flatten Nested List Iterator",
-      "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/flatten-nested-list-iterator"
     },
     {
       "question": "Combination Sum IV",
-      "link": "https://leetcode.com/problems/combination-sum-iv",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/combination-sum-iv"
     },
     {
       "question": "Insert Delete GetRandom O(1)",
-      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/insert-delete-getrandom-o1"
     },
     {
       "question": "Target Sum",
-      "link": "https://leetcode.com/problems/target-sum",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/target-sum"
     },
     {
       "question": "Encode and Decode TinyURL",
-      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/encode-and-decode-tinyurl"
     },
     {
       "question": "Diameter of Binary Tree",
-      "link": "https://leetcode.com/problems/diameter-of-binary-tree",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree"
     },
     {
       "question": "Valid Palindrome II",
-      "link": "https://leetcode.com/problems/valid-palindrome-ii",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/valid-palindrome-ii"
     },
     {
       "question": "Maximum Sum of 3 Non-Overlapping Subarrays",
-      "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays"
     },
     {
       "question": "Sudoku Solver",
-      "link": "https://leetcode.com/problems/sudoku-solver",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/sudoku-solver"
     },
     {
       "question": "Maximum Subarray",
-      "link": "https://leetcode.com/problems/maximum-subarray",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/maximum-subarray"
     },
     {
       "question": "Valid Number",
-      "link": "https://leetcode.com/problems/valid-number",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/valid-number"
     },
     {
       "question": "Plus One",
-      "link": "https://leetcode.com/problems/plus-one",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/plus-one"
     },
     {
       "question": "Add Binary",
-      "link": "https://leetcode.com/problems/add-binary",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/add-binary"
     },
     {
       "question": "Is Graph Bipartite?",
-      "link": "https://leetcode.com/problems/is-graph-bipartite",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/is-graph-bipartite"
     },
     {
       "question": "Custom Sort String",
-      "link": "https://leetcode.com/problems/custom-sort-string",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/custom-sort-string"
     },
     {
       "question": "Smallest Subtree with all the Deepest Nodes",
-      "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes"
     },
     {
       "question": "Shortest Bridge",
-      "link": "https://leetcode.com/problems/shortest-bridge",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/shortest-bridge"
     },
     {
       "question": "Range Sum of BST",
-      "link": "https://leetcode.com/problems/range-sum-of-bst",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/range-sum-of-bst"
     },
     {
       "question": "Verifying an Alien Dictionary",
-      "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/verifying-an-alien-dictionary"
     },
     {
       "question": "K Closest Points to Origin",
-      "link": "https://leetcode.com/problems/k-closest-points-to-origin",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/k-closest-points-to-origin"
     },
     {
       "question": "Interval List Intersections",
-      "link": "https://leetcode.com/problems/interval-list-intersections",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/interval-list-intersections"
     },
     {
       "question": "Max Consecutive Ones III",
-      "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/max-consecutive-ones-iii"
     },
     {
       "question": "Minimum Remove to Make Valid Parentheses",
-      "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses"
     },
     {
       "question": "Merge Sorted Array",
-      "link": "https://leetcode.com/problems/merge-sorted-array",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/merge-sorted-array"
     },
     {
       "question": "Binary Tree Level Order Traversal",
-      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/binary-tree-level-order-traversal"
     },
     {
       "question": "Best Time to Buy and Sell Stock",
-      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock"
     },
     {
       "question": "Best Time to Buy and Sell Stock III",
-      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii"
     },
     {
       "question": "Best Time to Buy and Sell Stock IV",
-      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv"
     },
     {
       "question": "Binary Tree Maximum Path Sum",
-      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum"
     },
     {
       "question": "Fraction to Recurring Decimal",
-      "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/fraction-to-recurring-decimal"
     },
     {
       "question": "Simplify Path",
-      "link": "https://leetcode.com/problems/simplify-path",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/simplify-path"
     },
     {
       "question": "Minimum Window Substring",
-      "link": "https://leetcode.com/problems/minimum-window-substring",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/minimum-window-substring"
     },
     {
       "question": "Course Schedule",
-      "link": "https://leetcode.com/problems/course-schedule",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/course-schedule"
     },
     {
       "question": "Design Add and Search Words Data Structure",
-      "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure"
     },
     {
       "question": "Kth Smallest Element in a BST",
-      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst"
     },
     {
       "question": "Lowest Common Ancestor of a Binary Tree",
-      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree"
     },
     {
       "question": "Product of Array Except Self",
-      "link": "https://leetcode.com/problems/product-of-array-except-self",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/product-of-array-except-self"
     },
     {
       "question": "Exclusive Time of Functions",
-      "link": "https://leetcode.com/problems/exclusive-time-of-functions",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/exclusive-time-of-functions"
     },
     {
       "question": "First Bad Version",
-      "link": "https://leetcode.com/problems/first-bad-version",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/first-bad-version"
     },
     {
       "question": "Move Zeroes",
-      "link": "https://leetcode.com/problems/move-zeroes",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/move-zeroes"
     },
     {
       "question": "Task Scheduler",
-      "link": "https://leetcode.com/problems/task-scheduler",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/task-scheduler"
     },
     {
       "question": "Remove Invalid Parentheses",
-      "link": "https://leetcode.com/problems/remove-invalid-parentheses",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/remove-invalid-parentheses"
     },
     {
       "question": "Longest Increasing Path in a Matrix",
-      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix"
     },
     {
       "question": "Search in Rotated Sorted Array II",
-      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii"
     },
     {
       "question": "Convert a Number to Hexadecimal",
-      "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal"
     },
     {
       "question": "Add Strings",
-      "link": "https://leetcode.com/problems/add-strings",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/add-strings"
     },
     {
       "question": "Partition Equal Subset Sum",
-      "link": "https://leetcode.com/problems/partition-equal-subset-sum",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/partition-equal-subset-sum"
     },
     {
       "question": "Find All Anagrams in a String",
-      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string"
     },
     {
       "question": "Continuous Subarray Sum",
-      "link": "https://leetcode.com/problems/continuous-subarray-sum",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/continuous-subarray-sum"
     },
     {
       "question": "Subarray Sum Equals K",
-      "link": "https://leetcode.com/problems/subarray-sum-equals-k",
-      "category": "Facebook"
+      "link": "https://leetcode.com/problems/subarray-sum-equals-k"
     }
   ]
 }

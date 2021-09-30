@@ -1489,7 +1489,7 @@
           "Name": "Power Set"
         }
       ],
-      "Stacks & Queues": [
+      "Stacks and Queues": [
         {
           "Link": "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
           "Name": " Implement Stack from Scratch"
@@ -2003,7 +2003,7 @@
           "Name": "Binary tree Postorder traversal"
         }
       ],
-      "Linked List": [
+      "LinkedList": [
         {
           "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
           "Name": "Merge 2 sorted lists"

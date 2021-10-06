@@ -862,13 +862,11 @@
         },
         {
           "question": "Activity Selection",
-          "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
-          "category": "Facebook"
+          "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0"
         },
         {
           "question": "Minimum Depth of a Binary Tree",
-          "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1",
-          "category": "Facebook"
+          "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1"
         },
         {
           "question": "Implement strstr",
@@ -2490,8 +2488,7 @@
         },
         {
           "question": "Rotate Array by n elements",
-          "link": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0",
-          "category": "MAQ Software"
+          "link": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0"
         },
         {
           "question": "Non Repeating Character",
@@ -2648,7 +2645,6 @@
       ]
     }
   },
-
   "mustdo": {
     "leetcode": [
       {

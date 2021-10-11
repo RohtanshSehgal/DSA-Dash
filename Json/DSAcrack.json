@@ -1,14 +1,14 @@
 {
   "topics": [
-    "Binary Search Trees",
+    "Binary Search Tree",
     "Binary Trees",
     "String",
-    "LinkedList",
+    "Linked List",
     "Heap",
     "Array",
     "Matrix",
     "Graph",
-    "Searching & Sorting",
+    "Searching and Sorting",
     "BackTracking",
     "Dynamic Programming",
     "Bit Manipulation",
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "topicName": "linked list",
+      "topicName": "linkedlist",
       "started": false,
       "total": 35,
       "completed": 0,

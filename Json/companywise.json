@@ -25,1047 +25,1047 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
-          "done": "false",
+          "done": false,
           "name": "Subarray with given sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-index/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum Index"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/finding-the-numbers/0",
-          "done": "false",
+          "done": false,
           "name": "Finding the numbers"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/longest-valid-parentheses/0",
-          "done": "false",
+          "done": false,
           "name": "Longest valid Parentheses"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0",
-          "done": "false",
+          "done": false,
           "name": "Jumping Numbers"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
-          "done": "false",
+          "done": false,
           "name": "Connect Nodes at Same Level"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
-          "done": "false",
+          "done": false,
           "name": "Count BST nodes that lie in a given range"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
-          "done": "false",
+          "done": false,
           "name": "Implement LRU Cache"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
-          "done": "false",
+          "done": false,
           "name": "Interleaved Strings"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Find triplets with zero sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
-          "done": "false",
+          "done": false,
           "name": "Egg Dropping Puzzle"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
-          "done": "false",
+          "done": false,
           "name": "Word Break Problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Check if a Binary Tree contains duplicate subtrees of size 2 or more"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-largest-word-in-dictionary/0",
-          "done": "false",
+          "done": false,
           "name": "Find largest word in dictionary by deleting some characters of given string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/number-of-subsets-and-mean/0",
-          "done": "false",
+          "done": false,
           "name": "Modular Exponentiation (Power in Modular Arithmetic)"
         },
         {
           "link": "https://leetcode.com/problems/two-sum",
-          "done": "false",
+          "done": false,
           "name": "Two Sum"
         },
         {
           "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-          "done": "false",
+          "done": false,
           "name": "Median of Two Sorted Arrays"
         },
         {
           "link": "https://leetcode.com/problems/regular-expression-matching",
-          "done": "false",
+          "done": false,
           "name": "Regular Expression Matching"
         },
         {
           "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-          "done": "false",
+          "done": false,
           "name": "Letter Combinations of a Phone Number"
         },
         {
           "link": "https://leetcode.com/problems/valid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Valid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/generate-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Generate Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge k Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Remove Duplicates from Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/next-permutation",
-          "done": "false",
+          "done": false,
           "name": "Next Permutation"
         },
         {
           "link": "https://leetcode.com/problems/trapping-rain-water",
-          "done": "false",
+          "done": false,
           "name": "Trapping Rain Water"
         },
         {
           "link": "https://leetcode.com/problems/wildcard-matching",
-          "done": "false",
+          "done": false,
           "name": "Wildcard Matching"
         },
         {
           "link": "https://leetcode.com/problems/powx-n",
-          "done": "false",
+          "done": false,
           "name": "Pow(x, n)"
         },
         {
           "link": "https://leetcode.com/problems/spiral-matrix",
-          "done": "false",
+          "done": false,
           "name": "Spiral Matrix"
         },
         {
           "link": "https://leetcode.com/problems/merge-intervals",
-          "done": "false",
+          "done": false,
           "name": "Merge Intervals"
         },
         {
           "link": "https://leetcode.com/problems/insert-interval",
-          "done": "false",
+          "done": false,
           "name": "Insert Interval"
         },
         {
           "link": "https://leetcode.com/problems/plus-one",
-          "done": "false",
+          "done": false,
           "name": "Plus One"
         },
         {
           "link": "https://leetcode.com/problems/maximal-rectangle",
-          "done": "false",
+          "done": false,
           "name": "Maximal Rectangle"
         },
         {
           "link": "https://leetcode.com/problems/same-tree",
-          "done": "false",
+          "done": false,
           "name": "Same Tree"
         },
         {
           "link": "https://leetcode.com/problems/pascals-triangle",
-          "done": "false",
+          "done": false,
           "name": "Pascal's Triangle"
         },
         {
           "link": "https://leetcode.com/problems/word-ladder",
-          "done": "false",
+          "done": false,
           "name": "Word Ladder"
         },
         {
           "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-          "done": "false",
+          "done": false,
           "name": "Longest Consecutive Sequence"
         },
         {
           "link": "https://leetcode.com/problems/clone-graph",
-          "done": "false",
+          "done": false,
           "name": "Clone Graph"
         },
         {
           "link": "https://leetcode.com/problems/word-break",
-          "done": "false",
+          "done": false,
           "name": "Word Break"
         },
         {
           "link": "https://leetcode.com/problems/word-break-ii",
-          "done": "false",
+          "done": false,
           "name": "Word Break II"
         },
         {
           "link": "https://leetcode.com/problems/lru-cache",
-          "done": "false",
+          "done": false,
           "name": "LRU Cache"
         },
         {
           "link": "https://leetcode.com/problems/min-stack",
-          "done": "false",
+          "done": false,
           "name": "Min Stack"
         },
         {
           "link": "https://leetcode.com/problems/find-peak-element",
-          "done": "false",
+          "done": false,
           "name": "Find Peak Element"
         },
         {
           "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
-          "done": "false",
+          "done": false,
           "name": "Fraction to Recurring Decimal"
         },
         {
           "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-          "done": "false",
+          "done": false,
           "name": "Binary Search Tree Iterator"
         },
         {
           "link": "https://leetcode.com/problems/house-robber",
-          "done": "false",
+          "done": false,
           "name": "House Robber"
         },
         {
           "link": "https://leetcode.com/problems/number-of-islands",
-          "done": "false",
+          "done": false,
           "name": "Number of Islands"
         },
         {
           "link": "https://leetcode.com/problems/isomorphic-strings",
-          "done": "false",
+          "done": false,
           "name": "Isomorphic Strings"
         },
         {
           "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
-          "done": "false",
+          "done": false,
           "name": "Implement Trie (Prefix Tree)"
         },
         {
           "link": "https://leetcode.com/problems/word-search-ii",
-          "done": "false",
+          "done": false,
           "name": "Word Search II"
         },
         {
           "link": "https://leetcode.com/problems/shortest-palindrome",
-          "done": "false",
+          "done": false,
           "name": "Shortest Palindrome"
         },
         {
           "link": "https://leetcode.com/problems/the-skyline-problem",
-          "done": "false",
+          "done": false,
           "name": "The Skyline Problem"
         },
         {
           "link": "https://leetcode.com/problems/count-complete-tree-nodes",
-          "done": "false",
+          "done": false,
           "name": "Count Complete Tree Nodes"
         },
         {
           "link": "https://leetcode.com/problems/basic-calculator",
-          "done": "false",
+          "done": false,
           "name": "Basic Calculator"
         },
         {
           "link": "https://leetcode.com/problems/summary-ranges",
-          "done": "false",
+          "done": false,
           "name": "Summary Ranges"
         },
         {
           "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
-          "done": "false",
+          "done": false,
           "name": "Kth Smallest Element in a BST"
         },
         {
           "link": "https://leetcode.com/problems/power-of-two",
-          "done": "false",
+          "done": false,
           "name": "Power of Two"
         },
         {
           "link": "https://leetcode.com/problems/product-of-array-except-self",
-          "done": "false",
+          "done": false,
           "name": "Product of Array Except Self"
         },
         {
           "link": "https://leetcode.com/problems/sliding-window-maximum",
-          "done": "false",
+          "done": false,
           "name": "Sliding Window Maximum"
         },
         {
           "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
-          "done": "false",
+          "done": false,
           "name": "Search a 2D Matrix II"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-paths",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Paths"
         },
         {
           "link": "https://leetcode.com/problems/h-index",
-          "done": "false",
+          "done": false,
           "name": "H-Index"
         },
         {
           "link": "https://leetcode.com/problems/perfect-squares",
-          "done": "false",
+          "done": false,
           "name": "Perfect Squares"
         },
         {
           "link": "https://leetcode.com/problems/expression-add-operators",
-          "done": "false",
+          "done": false,
           "name": "Expression Add Operators"
         },
         {
           "link": "https://leetcode.com/problems/move-zeroes",
-          "done": "false",
+          "done": false,
           "name": "Move Zeroes"
         },
         {
           "link": "https://leetcode.com/problems/peeking-iterator",
-          "done": "false",
+          "done": false,
           "name": "Peeking Iterator"
         },
         {
           "link": "https://leetcode.com/problems/game-of-life",
-          "done": "false",
+          "done": false,
           "name": "Game of Life"
         },
         {
           "link": "https://leetcode.com/problems/find-median-from-data-stream",
-          "done": "false",
+          "done": false,
           "name": "Find Median from Data Stream"
         },
         {
           "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Serialize and Deserialize Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/bulls-and-cows",
-          "done": "false",
+          "done": false,
           "name": "Bulls and Cows"
         },
         {
           "link": "https://leetcode.com/problems/longest-increasing-subsequence",
-          "done": "false",
+          "done": false,
           "name": "Longest Increasing Subsequence"
         },
         {
           "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
-          "done": "false",
+          "done": false,
           "name": "Best Time to Buy and Sell Stock with Cooldown"
         },
         {
           "link": "https://leetcode.com/problems/minimum-height-trees",
-          "done": "false",
+          "done": false,
           "name": "Minimum Height Trees"
         },
         {
           "link": "https://leetcode.com/problems/burst-balloons",
-          "done": "false",
+          "done": false,
           "name": "Burst Balloons"
         },
         {
           "link": "https://leetcode.com/problems/super-ugly-number",
-          "done": "false",
+          "done": false,
           "name": "Super Ugly Number"
         },
         {
           "link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
-          "done": "false",
+          "done": false,
           "name": "Count of Smaller Numbers After Self"
         },
         {
           "link": "https://leetcode.com/problems/remove-duplicate-letters",
-          "done": "false",
+          "done": false,
           "name": "Remove Duplicate Letters"
         },
         {
           "link": "https://leetcode.com/problems/maximum-product-of-word-lengths",
-          "done": "false",
+          "done": false,
           "name": "Maximum Product of Word Lengths"
         },
         {
           "link": "https://leetcode.com/problems/create-maximum-number",
-          "done": "false",
+          "done": false,
           "name": "Create Maximum Number"
         },
         {
           "link": "https://leetcode.com/problems/wiggle-sort-ii",
-          "done": "false",
+          "done": false,
           "name": "Wiggle Sort II"
         },
         {
           "link": "https://leetcode.com/problems/power-of-three",
-          "done": "false",
+          "done": false,
           "name": "Power of Three"
         },
         {
           "link": "https://leetcode.com/problems/count-of-range-sum",
-          "done": "false",
+          "done": false,
           "name": "Count of Range Sum"
         },
         {
           "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-          "done": "false",
+          "done": false,
           "name": "Longest Increasing Path in a Matrix"
         },
         {
           "link": "https://leetcode.com/problems/patching-array",
-          "done": "false",
+          "done": false,
           "name": "Patching Array"
         },
         {
           "link": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Verify Preorder Serialization of a Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/reconstruct-itinerary",
-          "done": "false",
+          "done": false,
           "name": "Reconstruct Itinerary"
         },
         {
           "link": "https://leetcode.com/problems/palindrome-pairs",
-          "done": "false",
+          "done": false,
           "name": "Palindrome Pairs"
         },
         {
           "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
-          "done": "false",
+          "done": false,
           "name": "Flatten Nested List Iterator"
         },
         {
           "link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
-          "done": "false",
+          "done": false,
           "name": "Reverse Vowels of a String"
         },
         {
           "link": "https://leetcode.com/problems/russian-doll-envelopes",
-          "done": "false",
+          "done": false,
           "name": "Russian Doll Envelopes"
         },
         {
           "link": "https://leetcode.com/problems/count-numbers-with-unique-digits",
-          "done": "false",
+          "done": false,
           "name": "Count Numbers with Unique Digits"
         },
         {
           "link": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
-          "done": "false",
+          "done": false,
           "name": "Max Sum of Rectangle No Larger Than K"
         },
         {
           "link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
-          "done": "false",
+          "done": false,
           "name": "Find K Pairs with Smallest Sums"
         },
         {
           "link": "https://leetcode.com/problems/guess-number-higher-or-lower",
-          "done": "false",
+          "done": false,
           "name": "Guess Number Higher or Lower"
         },
         {
           "link": "https://leetcode.com/problems/guess-number-higher-or-lower-ii",
-          "done": "false",
+          "done": false,
           "name": "Guess Number Higher or Lower II"
         },
         {
           "link": "https://leetcode.com/problems/combination-sum-iv",
-          "done": "false",
+          "done": false,
           "name": "Combination Sum IV"
         },
         {
           "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
-          "done": "false",
+          "done": false,
           "name": "Kth Smallest Element in a Sorted Matrix"
         },
         {
           "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-          "done": "false",
+          "done": false,
           "name": "Insert Delete GetRandom O(1)"
         },
         {
           "link": "https://leetcode.com/problems/linked-list-random-node",
-          "done": "false",
+          "done": false,
           "name": "Linked List Random Node"
         },
         {
           "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "First Unique Character in a String"
         },
         {
           "link": "https://leetcode.com/problems/longest-absolute-file-path",
-          "done": "false",
+          "done": false,
           "name": "Longest Absolute File Path"
         },
         {
           "link": "https://leetcode.com/problems/find-the-difference",
-          "done": "false",
+          "done": false,
           "name": "Find the Difference"
         },
         {
           "link": "https://leetcode.com/problems/perfect-rectangle",
-          "done": "false",
+          "done": false,
           "name": "Perfect Rectangle"
         },
         {
           "link": "https://leetcode.com/problems/utf-8-validation",
-          "done": "false",
+          "done": false,
           "name": "UTF-8 Validation"
         },
         {
           "link": "https://leetcode.com/problems/decode-string",
-          "done": "false",
+          "done": false,
           "name": "Decode String"
         },
         {
           "link": "https://leetcode.com/problems/integer-replacement",
-          "done": "false",
+          "done": false,
           "name": "Integer Replacement"
         },
         {
           "link": "https://leetcode.com/problems/evaluate-division",
-          "done": "false",
+          "done": false,
           "name": "Evaluate Division"
         },
         {
           "link": "https://leetcode.com/problems/nth-digit",
-          "done": "false",
+          "done": false,
           "name": "Nth Digit"
         },
         {
           "link": "https://leetcode.com/problems/binary-watch",
-          "done": "false",
+          "done": false,
           "name": "Binary Watch"
         },
         {
           "link": "https://leetcode.com/problems/remove-k-digits",
-          "done": "false",
+          "done": false,
           "name": "Remove K Digits"
         },
         {
           "link": "https://leetcode.com/problems/queue-reconstruction-by-height",
-          "done": "false",
+          "done": false,
           "name": "Queue Reconstruction by Height"
         },
         {
           "link": "https://leetcode.com/problems/trapping-rain-water-ii",
-          "done": "false",
+          "done": false,
           "name": "Trapping Rain Water II"
         },
         {
           "link": "https://leetcode.com/problems/longest-palindrome",
-          "done": "false",
+          "done": false,
           "name": "Longest Palindrome"
         },
         {
           "link": "https://leetcode.com/problems/split-array-largest-sum",
-          "done": "false",
+          "done": false,
           "name": "Split Array Largest Sum"
         },
         {
           "link": "https://leetcode.com/problems/add-strings",
-          "done": "false",
+          "done": false,
           "name": "Add Strings"
         },
         {
           "link": "https://leetcode.com/problems/pacific-atlantic-water-flow",
-          "done": "false",
+          "done": false,
           "name": "Pacific Atlantic Water Flow"
         },
         {
           "link": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "Maximum XOR of Two Numbers in an Array"
         },
         {
           "link": "https://leetcode.com/problems/number-of-boomerangs",
-          "done": "false",
+          "done": false,
           "name": "Number of Boomerangs"
         },
         {
           "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "Find All Numbers Disappeared in an Array"
         },
         {
           "link": "https://leetcode.com/problems/sort-characters-by-frequency",
-          "done": "false",
+          "done": false,
           "name": "Sort Characters By Frequency"
         },
         {
           "link": "https://leetcode.com/problems/repeated-substring-pattern",
-          "done": "false",
+          "done": false,
           "name": "Repeated Substring Pattern"
         },
         {
           "link": "https://leetcode.com/problems/lfu-cache",
-          "done": "false",
+          "done": false,
           "name": "LFU Cache"
         },
         {
           "link": "https://leetcode.com/problems/island-perimeter",
-          "done": "false",
+          "done": false,
           "name": "Island Perimeter"
         },
         {
           "link": "https://leetcode.com/problems/ones-and-zeroes",
-          "done": "false",
+          "done": false,
           "name": "Ones and Zeroes"
         },
         {
           "link": "https://leetcode.com/problems/heaters",
-          "done": "false",
+          "done": false,
           "name": "Heaters"
         },
         {
           "link": "https://leetcode.com/problems/sliding-window-median",
-          "done": "false",
+          "done": false,
           "name": "Sliding Window Median"
         },
         {
           "link": "https://leetcode.com/problems/magical-string",
-          "done": "false",
+          "done": false,
           "name": "Magical String"
         },
         {
           "link": "https://leetcode.com/problems/license-key-formatting",
-          "done": "false",
+          "done": false,
           "name": "License Key Formatting"
         },
         {
           "link": "https://leetcode.com/problems/smallest-good-base",
-          "done": "false",
+          "done": false,
           "name": "Smallest Good Base"
         },
         {
           "link": "https://leetcode.com/problems/max-consecutive-ones",
-          "done": "false",
+          "done": false,
           "name": "Max Consecutive Ones"
         },
         {
           "link": "https://leetcode.com/problems/predict-the-winner",
-          "done": "false",
+          "done": false,
           "name": "Predict the Winner"
         },
         {
           "link": "https://leetcode.com/problems/reverse-pairs",
-          "done": "false",
+          "done": false,
           "name": "Reverse Pairs"
         },
         {
           "link": "https://leetcode.com/problems/target-sum",
-          "done": "false",
+          "done": false,
           "name": "Target Sum"
         },
         {
           "link": "https://leetcode.com/problems/diagonal-traverse",
-          "done": "false",
+          "done": false,
           "name": "Diagonal Traverse"
         },
         {
           "link": "https://leetcode.com/problems/find-mode-in-binary-search-tree",
-          "done": "false",
+          "done": false,
           "name": "Find Mode in Binary Search Tree"
         },
         {
           "link": "https://leetcode.com/problems/next-greater-element-ii",
-          "done": "false",
+          "done": false,
           "name": "Next Greater Element II"
         },
         {
           "link": "https://leetcode.com/problems/relative-ranks",
-          "done": "false",
+          "done": false,
           "name": "Relative Ranks"
         },
         {
           "link": "https://leetcode.com/problems/freedom-trail",
-          "done": "false",
+          "done": false,
           "name": "Freedom Trail"
         },
         {
           "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
-          "done": "false",
+          "done": false,
           "name": "Longest Palindromic Subsequence"
         },
         {
           "link": "https://leetcode.com/problems/detect-capital",
-          "done": "false",
+          "done": false,
           "name": "Detect Capital"
         },
         {
           "link": "https://leetcode.com/problems/longest-uncommon-subsequence-i",
-          "done": "false",
+          "done": false,
           "name": "Longest Uncommon Subsequence I"
         },
         {
           "link": "https://leetcode.com/problems/longest-uncommon-subsequence-ii",
-          "done": "false",
+          "done": false,
           "name": "Longest Uncommon Subsequence II"
         },
         {
           "link": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting",
-          "done": "false",
+          "done": false,
           "name": "Longest Word in Dictionary through Deleting"
         },
         {
           "link": "https://leetcode.com/problems/beautiful-arrangement",
-          "done": "false",
+          "done": false,
           "name": "Beautiful Arrangement"
         },
         {
           "link": "https://leetcode.com/problems/minimum-absolute-difference-in-bst",
-          "done": "false",
+          "done": false,
           "name": "Minimum Absolute Difference in BST"
         },
         {
           "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-          "done": "false",
+          "done": false,
           "name": "Encode and Decode TinyURL"
         },
         {
           "link": "https://leetcode.com/problems/reverse-string-ii",
-          "done": "false",
+          "done": false,
           "name": "Reverse String II"
         },
         {
           "link": "https://leetcode.com/problems/01-matrix",
-          "done": "false",
+          "done": false,
           "name": "01 Matrix"
         },
         {
           "link": "https://leetcode.com/problems/diameter-of-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Diameter of Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/student-attendance-record-i",
-          "done": "false",
+          "done": false,
           "name": "Student Attendance Record I"
         },
         {
           "link": "https://leetcode.com/problems/student-attendance-record-ii",
-          "done": "false",
+          "done": false,
           "name": "Student Attendance Record II"
         },
         {
           "link": "https://leetcode.com/problems/subarray-sum-equals-k",
-          "done": "false",
+          "done": false,
           "name": "Subarray Sum Equals K"
         },
         {
           "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
-          "done": "false",
+          "done": false,
           "name": "Shortest Unsorted Continuous Subarray"
         },
         {
           "link": "https://leetcode.com/problems/delete-operation-for-two-strings",
-          "done": "false",
+          "done": false,
           "name": "Delete Operation for Two Strings"
         },
         {
           "link": "https://leetcode.com/problems/erect-the-fence",
-          "done": "false",
+          "done": false,
           "name": "Erect the Fence"
         },
         {
           "link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
-          "done": "false",
+          "done": false,
           "name": "Smallest Range Covering Elements from K Lists"
         },
         {
           "link": "https://leetcode.com/problems/shopping-offers",
-          "done": "false",
+          "done": false,
           "name": "Shopping Offers"
         },
         {
           "link": "https://leetcode.com/problems/maximum-average-subarray-i",
-          "done": "false",
+          "done": false,
           "name": "Maximum Average Subarray I"
         },
         {
           "link": "https://leetcode.com/problems/find-duplicate-subtrees",
-          "done": "false",
+          "done": false,
           "name": "Find Duplicate Subtrees"
         },
         {
           "link": "https://leetcode.com/problems/find-k-closest-elements",
-          "done": "false",
+          "done": false,
           "name": "Find K Closest Elements"
         },
         {
           "link": "https://leetcode.com/problems/split-array-into-consecutive-subsequences",
-          "done": "false",
+          "done": false,
           "name": "Split Array into Consecutive Subsequences"
         },
         {
           "link": "https://leetcode.com/problems/non-decreasing-array",
-          "done": "false",
+          "done": false,
           "name": "Non-decreasing Array"
         },
         {
           "link": "https://leetcode.com/problems/beautiful-arrangement-ii",
-          "done": "false",
+          "done": false,
           "name": "Beautiful Arrangement II"
         },
         {
           "link": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table",
-          "done": "false",
+          "done": false,
           "name": "Kth Smallest Number in Multiplication Table"
         },
         {
           "link": "https://leetcode.com/problems/implement-magic-dictionary",
-          "done": "false",
+          "done": false,
           "name": "Implement Magic Dictionary"
         },
         {
           "link": "https://leetcode.com/problems/valid-parenthesis-string",
-          "done": "false",
+          "done": false,
           "name": "Valid Parenthesis String"
         },
         {
           "link": "https://leetcode.com/problems/24-game",
-          "done": "false",
+          "done": false,
           "name": "24 Game"
         },
         {
           "link": "https://leetcode.com/problems/redundant-connection",
-          "done": "false",
+          "done": false,
           "name": "Redundant Connection"
         },
         {
           "link": "https://leetcode.com/problems/redundant-connection-ii",
-          "done": "false",
+          "done": false,
           "name": "Redundant Connection II"
         },
         {
           "link": "https://leetcode.com/problems/repeated-string-match",
-          "done": "false",
+          "done": false,
           "name": "Repeated String Match"
         },
         {
           "link": "https://leetcode.com/problems/longest-univalue-path",
-          "done": "false",
+          "done": false,
           "name": "Longest Univalue Path"
         },
         {
           "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
-          "done": "false",
+          "done": false,
           "name": "Maximum Sum of 3 Non-Overlapping Subarrays"
         },
         {
           "link": "https://leetcode.com/problems/find-k-th-smallest-pair-distance",
-          "done": "false",
+          "done": false,
           "name": "Find K-th Smallest Pair Distance"
         },
         {
           "link": "https://leetcode.com/problems/number-of-atoms",
-          "done": "false",
+          "done": false,
           "name": "Number of Atoms"
         },
         {
           "link": "https://leetcode.com/problems/my-calendar-i",
-          "done": "false",
+          "done": false,
           "name": "My Calendar I"
         },
         {
           "link": "https://leetcode.com/problems/my-calendar-ii",
-          "done": "false",
+          "done": false,
           "name": "My Calendar II"
         },
         {
           "link": "https://leetcode.com/problems/my-calendar-iii",
-          "done": "false",
+          "done": false,
           "name": "My Calendar III"
         },
         {
           "link": "https://leetcode.com/problems/daily-temperatures",
-          "done": "false",
+          "done": false,
           "name": "Daily Temperatures"
         },
         {
           "link": "https://leetcode.com/problems/largest-number-at-least-twice-of-others",
-          "done": "false",
+          "done": false,
           "name": "Largest Number At Least Twice of Others"
         },
         {
           "link": "https://leetcode.com/problems/shortest-completing-word",
-          "done": "false",
+          "done": false,
           "name": "Shortest Completing Word"
         },
         {
           "link": "https://leetcode.com/problems/open-the-lock",
-          "done": "false",
+          "done": false,
           "name": "Open the Lock"
         },
         {
           "link": "https://leetcode.com/problems/cracking-the-safe",
-          "done": "false",
+          "done": false,
           "name": "Cracking the Safe"
         },
         {
           "link": "https://leetcode.com/problems/pyramid-transition-matrix",
-          "done": "false",
+          "done": false,
           "name": "Pyramid Transition Matrix"
         },
         {
           "link": "https://leetcode.com/problems/couples-holding-hands",
-          "done": "false",
+          "done": false,
           "name": "Couples Holding Hands"
         },
         {
           "link": "https://leetcode.com/problems/toeplitz-matrix",
-          "done": "false",
+          "done": false,
           "name": "Toeplitz Matrix"
         },
         {
           "link": "https://leetcode.com/problems/number-of-matching-subsequences",
-          "done": "false",
+          "done": false,
           "name": "Number of Matching Subsequences"
         },
         {
           "link": "https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing",
-          "done": "false",
+          "done": false,
           "name": "Minimum Swaps To Make Sequences Increasing"
         },
         {
           "link": "https://leetcode.com/problems/backspace-string-compare",
-          "done": "false",
+          "done": false,
           "name": "Backspace String Compare"
         },
         {
           "link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
-          "done": "false",
+          "done": false,
           "name": "Maximize Distance to Closest Person"
         },
         {
           "link": "https://leetcode.com/problems/all-possible-full-binary-trees",
-          "done": "false",
+          "done": false,
           "name": "All Possible Full Binary Trees"
         },
         {
           "link": "https://leetcode.com/problems/fruit-into-baskets",
-          "done": "false",
+          "done": false,
           "name": "Fruit Into Baskets"
         },
         {
           "link": "https://leetcode.com/problems/long-pressed-name",
-          "done": "false",
+          "done": false,
           "name": "Long Pressed Name"
         },
         {
           "link": "https://leetcode.com/problems/unique-email-addresses",
-          "done": "false",
+          "done": false,
           "name": "Unique Email Addresses"
         },
         {
           "link": "https://leetcode.com/problems/knight-dialer",
-          "done": "false",
+          "done": false,
           "name": "Knight Dialer"
         },
         {
           "link": "https://leetcode.com/problems/minimum-area-rectangle",
-          "done": "false",
+          "done": false,
           "name": "Minimum Area Rectangle"
         },
         {
           "link": "https://leetcode.com/problems/k-closest-points-to-origin",
-          "done": "false",
+          "done": false,
           "name": "K Closest Points to Origin"
         },
         {
           "link": "https://leetcode.com/problems/odd-even-jump",
-          "done": "false",
+          "done": false,
           "name": "Odd Even Jump"
         },
         {
           "link": "https://leetcode.com/problems/shortest-way-to-form-string",
-          "done": "false",
+          "done": false,
           "name": "Shortest Way to Form String"
         },
         {
           "link": "https://leetcode.com/problems/campus-bikes",
-          "done": "false",
+          "done": false,
           "name": "Campus Bikes"
         },
         {
           "link": "https://leetcode.com/problems/confusing-number-ii",
-          "done": "false",
+          "done": false,
           "name": "Confusing Number II"
         },
         {
           "link": "https://leetcode.com/problems/video-stitching",
-          "done": "false",
+          "done": false,
           "name": "Video Stitching"
         },
         {
           "link": "https://leetcode.com/problems/stream-of-characters",
-          "done": "false",
+          "done": false,
           "name": "Stream of Characters"
         },
         {
           "link": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Maximum Level Sum of a Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/string-transforms-into-another-string",
-          "done": "false",
+          "done": false,
           "name": "String Transforms Into Another String"
         },
         {
           "link": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target",
-          "done": "false",
+          "done": false,
           "name": "Number of Submatrices That Sum to Target"
         },
         {
           "link": "https://leetcode.com/problems/divide-chocolate",
-          "done": "false",
+          "done": false,
           "name": "Divide Chocolate"
         },
         {
           "link": "https://leetcode.com/problems/delete-nodes-and-return-forest",
-          "done": "false",
+          "done": false,
           "name": "Delete Nodes And Return Forest"
         },
         {
           "link": "https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character",
-          "done": "false",
+          "done": false,
           "name": "Compare Strings by Frequency of the Smallest Character"
         },
         {
           "link": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares",
-          "done": "false",
+          "done": false,
           "name": "Tiling a Rectangle with the Fewest Squares"
         },
         {
           "link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
-          "done": "false",
+          "done": false,
           "name": "Count Number of Nice Subarrays"
         }
       ]
@@ -1079,477 +1079,477 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum/0",
-          "done": "false",
+          "done": false,
           "name": "Subarray with given sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x/0",
-          "done": "false",
+          "done": false,
           "name": "Find all pairs with a given sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/total-decoding-messages/0",
-          "done": "false",
+          "done": false,
           "name": "Total Decoding Messages"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
-          "done": "false",
+          "done": false,
           "name": "Word Boggle"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/activity-selection/0",
-          "done": "false",
+          "done": false,
           "name": "Activity Selection"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/minimum-depth-of-a-binary-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Minimum Depth of a Binary Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/implement-strstr/1",
-          "done": "false",
+          "done": false,
           "name": "Implement strstr"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/multiply-two-strings/1",
-          "done": "false",
+          "done": false,
           "name": "Multiply two strings"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/k-palindrome/1",
-          "done": "false",
+          "done": false,
           "name": "K-Palindrome"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Find triplets with zero sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/largest-fibonacci-subsequence/0",
-          "done": "false",
+          "done": false,
           "name": "Largest subset whose all elements are Fibonacci numbers"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/decode-the-pattern/0",
-          "done": "false",
+          "done": false,
           "name": "Look-and-Say Sequence"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1",
-          "done": "false",
+          "done": false,
           "name": "Converting Decimal Number lying between 1 to 3999 to Roman Numerals"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/convert-ternary-expression-to-binary-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Convert Ternary Expression to Binary Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum Rectangular Area in a Histogram"
         },
         {
           "link": "https://leetcode.com/problems/regular-expression-matching",
-          "done": "false",
+          "done": false,
           "name": "Regular Expression Matching"
         },
         {
           "link": "https://leetcode.com/problems/roman-to-integer",
-          "done": "false",
+          "done": false,
           "name": "Roman to Integer"
         },
         {
           "link": "https://leetcode.com/problems/3sum",
-          "done": "false",
+          "done": false,
           "name": "3Sum"
         },
         {
           "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-          "done": "false",
+          "done": false,
           "name": "Letter Combinations of a Phone Number"
         },
         {
           "link": "https://leetcode.com/problems/valid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Valid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge k Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
-          "done": "false",
+          "done": false,
           "name": "Reverse Nodes in k-Group"
         },
         {
           "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Remove Duplicates from Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/implement-strstr",
-          "done": "false",
+          "done": false,
           "name": "Implement strStr()"
         },
         {
           "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Search in Rotated Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/count-and-say",
-          "done": "false",
+          "done": false,
           "name": "Count and Say"
         },
         {
           "link": "https://leetcode.com/problems/wildcard-matching",
-          "done": "false",
+          "done": false,
           "name": "Wildcard Matching"
         },
         {
           "link": "https://leetcode.com/problems/powx-n",
-          "done": "false",
+          "done": false,
           "name": "Pow(x, n)"
         },
         {
           "link": "https://leetcode.com/problems/merge-intervals",
-          "done": "false",
+          "done": false,
           "name": "Merge Intervals"
         },
         {
           "link": "https://leetcode.com/problems/insert-interval",
-          "done": "false",
+          "done": false,
           "name": "Insert Interval"
         },
         {
           "link": "https://leetcode.com/problems/valid-palindrome",
-          "done": "false",
+          "done": false,
           "name": "Valid Palindrome"
         },
         {
           "link": "https://leetcode.com/problems/longest-consecutive-sequence",
-          "done": "false",
+          "done": false,
           "name": "Longest Consecutive Sequence"
         },
         {
           "link": "https://leetcode.com/problems/clone-graph",
-          "done": "false",
+          "done": false,
           "name": "Clone Graph"
         },
         {
           "link": "https://leetcode.com/problems/word-break",
-          "done": "false",
+          "done": false,
           "name": "Word Break"
         },
         {
           "link": "https://leetcode.com/problems/lru-cache",
-          "done": "false",
+          "done": false,
           "name": "LRU Cache"
         },
         {
           "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-          "done": "false",
+          "done": false,
           "name": "Binary Search Tree Iterator"
         },
         {
           "link": "https://leetcode.com/problems/number-of-islands",
-          "done": "false",
+          "done": false,
           "name": "Number of Islands"
         },
         {
           "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
-          "done": "false",
+          "done": false,
           "name": "Implement Trie (Prefix Tree)"
         },
         {
           "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "Kth Largest Element in an Array"
         },
         {
           "link": "https://leetcode.com/problems/the-skyline-problem",
-          "done": "false",
+          "done": false,
           "name": "The Skyline Problem"
         },
         {
           "link": "https://leetcode.com/problems/maximal-square",
-          "done": "false",
+          "done": false,
           "name": "Maximal Square"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-paths",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Paths"
         },
         {
           "link": "https://leetcode.com/problems/h-index",
-          "done": "false",
+          "done": false,
           "name": "H-Index"
         },
         {
           "link": "https://leetcode.com/problems/expression-add-operators",
-          "done": "false",
+          "done": false,
           "name": "Expression Add Operators"
         },
         {
           "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Serialize and Deserialize Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/flatten-nested-list-iterator",
-          "done": "false",
+          "done": false,
           "name": "Flatten Nested List Iterator"
         },
         {
           "link": "https://leetcode.com/problems/combination-sum-iv",
-          "done": "false",
+          "done": false,
           "name": "Combination Sum IV"
         },
         {
           "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-          "done": "false",
+          "done": false,
           "name": "Insert Delete GetRandom O(1)"
         },
         {
           "link": "https://leetcode.com/problems/target-sum",
-          "done": "false",
+          "done": false,
           "name": "Target Sum"
         },
         {
           "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-          "done": "false",
+          "done": false,
           "name": "Encode and Decode TinyURL"
         },
         {
           "link": "https://leetcode.com/problems/diameter-of-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Diameter of Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/valid-palindrome-ii",
-          "done": "false",
+          "done": false,
           "name": "Valid Palindrome II"
         },
         {
           "link": "https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays",
-          "done": "false",
+          "done": false,
           "name": "Maximum Sum of 3 Non-Overlapping Subarrays"
         },
         {
           "link": "https://leetcode.com/problems/sudoku-solver",
-          "done": "false",
+          "done": false,
           "name": "Sudoku Solver"
         },
         {
           "link": "https://leetcode.com/problems/maximum-subarray",
-          "done": "false",
+          "done": false,
           "name": "Maximum Subarray"
         },
         {
           "link": "https://leetcode.com/problems/valid-number",
-          "done": "false",
+          "done": false,
           "name": "Valid Number"
         },
         {
           "link": "https://leetcode.com/problems/plus-one",
-          "done": "false",
+          "done": false,
           "name": "Plus One"
         },
         {
           "link": "https://leetcode.com/problems/add-binary",
-          "done": "false",
+          "done": false,
           "name": "Add Binary"
         },
         {
           "link": "https://leetcode.com/problems/is-graph-bipartite",
-          "done": "false",
+          "done": false,
           "name": "Is Graph Bipartite?"
         },
         {
           "link": "https://leetcode.com/problems/custom-sort-string",
-          "done": "false",
+          "done": false,
           "name": "Custom Sort String"
         },
         {
           "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes",
-          "done": "false",
+          "done": false,
           "name": "Smallest Subtree with all the Deepest Nodes"
         },
         {
           "link": "https://leetcode.com/problems/shortest-bridge",
-          "done": "false",
+          "done": false,
           "name": "Shortest Bridge"
         },
         {
           "link": "https://leetcode.com/problems/range-sum-of-bst",
-          "done": "false",
+          "done": false,
           "name": "Range Sum of BST"
         },
         {
           "link": "https://leetcode.com/problems/verifying-an-alien-dictionary",
-          "done": "false",
+          "done": false,
           "name": "Verifying an Alien Dictionary"
         },
         {
           "link": "https://leetcode.com/problems/k-closest-points-to-origin",
-          "done": "false",
+          "done": false,
           "name": "K Closest Points to Origin"
         },
         {
           "link": "https://leetcode.com/problems/interval-list-intersections",
-          "done": "false",
+          "done": false,
           "name": "Interval List Intersections"
         },
         {
           "link": "https://leetcode.com/problems/max-consecutive-ones-iii",
-          "done": "false",
+          "done": false,
           "name": "Max Consecutive Ones III"
         },
         {
           "link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Minimum Remove to Make Valid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Merge Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Level Order Traversal"
         },
         {
           "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-          "done": "false",
+          "done": false,
           "name": "Best Time to Buy and Sell Stock"
         },
         {
           "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
-          "done": "false",
+          "done": false,
           "name": "Best Time to Buy and Sell Stock III"
         },
         {
           "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
-          "done": "false",
+          "done": false,
           "name": "Best Time to Buy and Sell Stock IV"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Maximum Path Sum"
         },
         {
           "link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
-          "done": "false",
+          "done": false,
           "name": "Fraction to Recurring Decimal"
         },
         {
           "link": "https://leetcode.com/problems/simplify-path",
-          "done": "false",
+          "done": false,
           "name": "Simplify Path"
         },
         {
           "link": "https://leetcode.com/problems/minimum-window-substring",
-          "done": "false",
+          "done": false,
           "name": "Minimum Window Substring"
         },
         {
           "link": "https://leetcode.com/problems/course-schedule",
-          "done": "false",
+          "done": false,
           "name": "Course Schedule"
         },
         {
           "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
-          "done": "false",
+          "done": false,
           "name": "Design Add and Search Words Data Structure"
         },
         {
           "link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
-          "done": "false",
+          "done": false,
           "name": "Kth Smallest Element in a BST"
         },
         {
           "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Lowest Common Ancestor of a Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/product-of-array-except-self",
-          "done": "false",
+          "done": false,
           "name": "Product of Array Except Self"
         },
         {
           "link": "https://leetcode.com/problems/exclusive-time-of-functions",
-          "done": "false",
+          "done": false,
           "name": "Exclusive Time of Functions"
         },
         {
           "link": "https://leetcode.com/problems/first-bad-version",
-          "done": "false",
+          "done": false,
           "name": "First Bad Version"
         },
         {
           "link": "https://leetcode.com/problems/move-zeroes",
-          "done": "false",
+          "done": false,
           "name": "Move Zeroes"
         },
         {
           "link": "https://leetcode.com/problems/task-scheduler",
-          "done": "false",
+          "done": false,
           "name": "Task Scheduler"
         },
         {
           "link": "https://leetcode.com/problems/remove-invalid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Remove Invalid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
-          "done": "false",
+          "done": false,
           "name": "Longest Increasing Path in a Matrix"
         },
         {
           "link": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
-          "done": "false",
+          "done": false,
           "name": "Search in Rotated Sorted Array II"
         },
         {
           "link": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
-          "done": "false",
+          "done": false,
           "name": "Convert a Number to Hexadecimal"
         },
         {
           "link": "https://leetcode.com/problems/add-strings",
-          "done": "false",
+          "done": false,
           "name": "Add Strings"
         },
         {
           "link": "https://leetcode.com/problems/partition-equal-subset-sum",
-          "done": "false",
+          "done": false,
           "name": "Partition Equal Subset Sum"
         },
         {
           "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "Find All Anagrams in a String"
         },
         {
           "link": "https://leetcode.com/problems/continuous-subarray-sum",
-          "done": "false",
+          "done": false,
           "name": "Continuous Subarray Sum"
         },
         {
           "link": "https://leetcode.com/problems/subarray-sum-equals-k",
-          "done": "false",
+          "done": false,
           "name": "Subarray Sum Equals K"
         }
       ]
@@ -1563,732 +1563,732 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
-          "done": "false",
+          "done": false,
           "name": "K largest elements from a big file or array"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
-          "done": "false",
+          "done": false,
           "name": "Reverse a Linked List in groups of given size"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/special-stack/1",
-          "done": "false",
+          "done": false,
           "name": "Implement a stack with push(), pop() and min() in O(1) time"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
-          "done": "false",
+          "done": false,
           "name": "Add two numbers represented by linked lists"
         },
         {
           "link": "https://www.geeksforgeeks.org/convert-a-given-binary-tree-to-doubly-linked-list-set-4/",
-          "done": "false",
+          "done": false,
           "name": "Convert a Binary tree to DLL"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/stock-span-problem/0",
-          "done": "false",
+          "done": false,
           "name": "Stock span problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
-          "done": "false",
+          "done": false,
           "name": "Next larger element"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/edit-distance/0",
-          "done": "false",
+          "done": false,
           "name": "Edit distance"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum of all subarrays of size k"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet/0",
-          "done": "false",
+          "done": false,
           "name": "Pythagorean Triplet"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1",
-          "done": "false",
+          "done": false,
           "name": "Print a Binary Tree in Vertical Order"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
-          "done": "false",
+          "done": false,
           "name": "Level order traversal"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
-          "done": "false",
+          "done": false,
           "name": "Smallest window in a string containing all the characters of another string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
-          "done": "false",
+          "done": false,
           "name": "Find the number of islands"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Detect and Remove Loop in a Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
-          "done": "false",
+          "done": false,
           "name": "Check if a binary tree is BST or not"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
-          "done": "false",
+          "done": false,
           "name": "Boolean Parenthesization"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0",
-          "done": "false",
+          "done": false,
           "name": "Arrange given numbers to form the biggest number"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
-          "done": "false",
+          "done": false,
           "name": "Implement LRU Cache"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1",
-          "done": "false",
+          "done": false,
           "name": "Maximum difference between node and its ancestor in Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/two-sum",
-          "done": "false",
+          "done": false,
           "name": "Two Sum"
         },
         {
           "link": "https://leetcode.com/problems/add-two-numbers",
-          "done": "false",
+          "done": false,
           "name": "Add Two Numbers"
         },
         {
           "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
-          "done": "false",
+          "done": false,
           "name": "Longest Substring Without Repeating Characters"
         },
         {
           "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-          "done": "false",
+          "done": false,
           "name": "Median of Two Sorted Arrays"
         },
         {
           "link": "https://leetcode.com/problems/longest-palindromic-substring",
-          "done": "false",
+          "done": false,
           "name": "Longest Palindromic Substring"
         },
         {
           "link": "https://leetcode.com/problems/zigzag-conversion",
-          "done": "false",
+          "done": false,
           "name": "ZigZag Conversion"
         },
         {
           "link": "https://leetcode.com/problems/string-to-integer-atoi",
-          "done": "false",
+          "done": false,
           "name": "String to Integer (atoi)"
         },
         {
           "link": "https://leetcode.com/problems/3sum",
-          "done": "false",
+          "done": false,
           "name": "3Sum"
         },
         {
           "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
-          "done": "false",
+          "done": false,
           "name": "Letter Combinations of a Phone Number"
         },
         {
           "link": "https://leetcode.com/problems/valid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Valid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-two-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge Two Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/generate-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Generate Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge k Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/trapping-rain-water",
-          "done": "false",
+          "done": false,
           "name": "Trapping Rain Water"
         },
         {
           "link": "https://leetcode.com/problems/permutations",
-          "done": "false",
+          "done": false,
           "name": "Permutations"
         },
         {
           "link": "https://leetcode.com/problems/rotate-image",
-          "done": "false",
+          "done": false,
           "name": "Rotate Image"
         },
         {
           "link": "https://leetcode.com/problems/group-anagrams",
-          "done": "false",
+          "done": false,
           "name": "Group Anagrams"
         },
         {
           "link": "https://leetcode.com/problems/merge-intervals",
-          "done": "false",
+          "done": false,
           "name": "Merge Intervals"
         },
         {
           "link": "https://leetcode.com/problems/spiral-matrix-ii",
-          "done": "false",
+          "done": false,
           "name": "Spiral Matrix II"
         },
         {
           "link": "https://leetcode.com/problems/unique-paths-ii",
-          "done": "false",
+          "done": false,
           "name": "Unique Paths II"
         },
         {
           "link": "https://leetcode.com/problems/minimum-path-sum",
-          "done": "false",
+          "done": false,
           "name": "Minimum Path Sum"
         },
         {
           "link": "https://leetcode.com/problems/edit-distance",
-          "done": "false",
+          "done": false,
           "name": "Edit Distance"
         },
         {
           "link": "https://leetcode.com/problems/set-matrix-zeroes",
-          "done": "false",
+          "done": false,
           "name": "Set Matrix Zeroes"
         },
         {
           "link": "https://leetcode.com/problems/sort-colors",
-          "done": "false",
+          "done": false,
           "name": "Sort Colors"
         },
         {
           "link": "https://leetcode.com/problems/minimum-window-substring",
-          "done": "false",
+          "done": false,
           "name": "Minimum Window Substring"
         },
         {
           "link": "https://leetcode.com/problems/subsets",
-          "done": "false",
+          "done": false,
           "name": "Subsets"
         },
         {
           "link": "https://leetcode.com/problems/gray-code",
-          "done": "false",
+          "done": false,
           "name": "Gray Code"
         },
         {
           "link": "https://leetcode.com/problems/validate-binary-search-tree",
-          "done": "false",
+          "done": false,
           "name": "Validate Binary Search Tree"
         },
         {
           "link": "https://leetcode.com/problems/same-tree",
-          "done": "false",
+          "done": false,
           "name": "Same Tree"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Level Order Traversal"
         },
         {
           "link": "https://leetcode.com/problems/path-sum-ii",
-          "done": "false",
+          "done": false,
           "name": "Path Sum II"
         },
         {
           "link": "https://leetcode.com/problems/pascals-triangle-ii",
-          "done": "false",
+          "done": false,
           "name": "Pascal's Triangle II"
         },
         {
           "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
-          "done": "false",
+          "done": false,
           "name": "Best Time to Buy and Sell Stock"
         },
         {
           "link": "https://leetcode.com/problems/word-ladder-ii",
-          "done": "false",
+          "done": false,
           "name": "Word Ladder II"
         },
         {
           "link": "https://leetcode.com/problems/word-ladder",
-          "done": "false",
+          "done": false,
           "name": "Word Ladder"
         },
         {
           "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
-          "done": "false",
+          "done": false,
           "name": "Sum Root to Leaf Numbers"
         },
         {
           "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
-          "done": "false",
+          "done": false,
           "name": "Copy List with Random Pointer"
         },
         {
           "link": "https://leetcode.com/problems/word-break",
-          "done": "false",
+          "done": false,
           "name": "Word Break"
         },
         {
           "link": "https://leetcode.com/problems/linked-list-cycle",
-          "done": "false",
+          "done": false,
           "name": "Linked List Cycle"
         },
         {
           "link": "https://leetcode.com/problems/lru-cache",
-          "done": "false",
+          "done": false,
           "name": "LRU Cache"
         },
         {
           "link": "https://leetcode.com/problems/sort-list",
-          "done": "false",
+          "done": false,
           "name": "Sort List"
         },
         {
           "link": "https://leetcode.com/problems/min-stack",
-          "done": "false",
+          "done": false,
           "name": "Min Stack"
         },
         {
           "link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
-          "done": "false",
+          "done": false,
           "name": "Intersection of Two Linked Lists"
         },
         {
           "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
-          "done": "false",
+          "done": false,
           "name": "Two Sum II - Input array is sorted"
         },
         {
           "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-          "done": "false",
+          "done": false,
           "name": "Binary Search Tree Iterator"
         },
         {
           "link": "https://leetcode.com/problems/rotate-array",
-          "done": "false",
+          "done": false,
           "name": "Rotate Array"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-right-side-view",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Right Side View"
         },
         {
           "link": "https://leetcode.com/problems/number-of-islands",
-          "done": "false",
+          "done": false,
           "name": "Number of Islands"
         },
         {
           "link": "https://leetcode.com/problems/happy-number",
-          "done": "false",
+          "done": false,
           "name": "Happy Number"
         },
         {
           "link": "https://leetcode.com/problems/count-primes",
-          "done": "false",
+          "done": false,
           "name": "Count Primes"
         },
         {
           "link": "https://leetcode.com/problems/reverse-linked-list",
-          "done": "false",
+          "done": false,
           "name": "Reverse Linked List"
         },
         {
           "link": "https://leetcode.com/problems/word-search-ii",
-          "done": "false",
+          "done": false,
           "name": "Word Search II"
         },
         {
           "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "Kth Largest Element in an Array"
         },
         {
           "link": "https://leetcode.com/problems/basic-calculator",
-          "done": "false",
+          "done": false,
           "name": "Basic Calculator"
         },
         {
           "link": "https://leetcode.com/problems/palindrome-linked-list",
-          "done": "false",
+          "done": false,
           "name": "Palindrome Linked List"
         },
         {
           "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
-          "done": "false",
+          "done": false,
           "name": "Lowest Common Ancestor of a Binary Search Tree"
         },
         {
           "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Lowest Common Ancestor of a Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/product-of-array-except-self",
-          "done": "false",
+          "done": false,
           "name": "Product of Array Except Self"
         },
         {
           "link": "https://leetcode.com/problems/sliding-window-maximum",
-          "done": "false",
+          "done": false,
           "name": "Sliding Window Maximum"
         },
         {
           "link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
-          "done": "false",
+          "done": false,
           "name": "Search a 2D Matrix II"
         },
         {
           "link": "https://leetcode.com/problems/valid-anagram",
-          "done": "false",
+          "done": false,
           "name": "Valid Anagram"
         },
         {
           "link": "https://leetcode.com/problems/find-median-from-data-stream",
-          "done": "false",
+          "done": false,
           "name": "Find Median from Data Stream"
         },
         {
           "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Serialize and Deserialize Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/top-k-frequent-elements",
-          "done": "false",
+          "done": false,
           "name": "Top K Frequent Elements"
         },
         {
           "link": "https://leetcode.com/problems/design-twitter",
-          "done": "false",
+          "done": false,
           "name": "Design Twitter"
         },
         {
           "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-          "done": "false",
+          "done": false,
           "name": "Insert Delete GetRandom O(1)"
         },
         {
           "link": "https://leetcode.com/problems/shuffle-an-array",
-          "done": "false",
+          "done": false,
           "name": "Shuffle an Array"
         },
         {
           "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "First Unique Character in a String"
         },
         {
           "link": "https://leetcode.com/problems/rotate-function",
-          "done": "false",
+          "done": false,
           "name": "Rotate Function"
         },
         {
           "link": "https://leetcode.com/problems/third-maximum-number",
-          "done": "false",
+          "done": false,
           "name": "Third Maximum Number"
         },
         {
           "link": "https://leetcode.com/problems/battleships-in-a-board",
-          "done": "false",
+          "done": false,
           "name": "Battleships in a Board"
         },
         {
           "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "Find All Anagrams in a String"
         },
         {
           "link": "https://leetcode.com/problems/string-compression",
-          "done": "false",
+          "done": false,
           "name": "String Compression"
         },
         {
           "link": "https://leetcode.com/problems/serialize-and-deserialize-bst",
-          "done": "false",
+          "done": false,
           "name": "Serialize and Deserialize BST"
         },
         {
           "link": "https://leetcode.com/problems/sort-characters-by-frequency",
-          "done": "false",
+          "done": false,
           "name": "Sort Characters By Frequency"
         },
         {
           "link": "https://leetcode.com/problems/repeated-substring-pattern",
-          "done": "false",
+          "done": false,
           "name": "Repeated Substring Pattern"
         },
         {
           "link": "https://leetcode.com/problems/lfu-cache",
-          "done": "false",
+          "done": false,
           "name": "LFU Cache"
         },
         {
           "link": "https://leetcode.com/problems/concatenated-words",
-          "done": "false",
+          "done": false,
           "name": "Concatenated Words"
         },
         {
           "link": "https://leetcode.com/problems/most-frequent-subtree-sum",
-          "done": "false",
+          "done": false,
           "name": "Most Frequent Subtree Sum"
         },
         {
           "link": "https://leetcode.com/problems/longest-palindromic-subsequence",
-          "done": "false",
+          "done": false,
           "name": "Longest Palindromic Subsequence"
         },
         {
           "link": "https://leetcode.com/problems/super-washing-machines",
-          "done": "false",
+          "done": false,
           "name": "Super Washing Machines"
         },
         {
           "link": "https://leetcode.com/problems/minesweeper",
-          "done": "false",
+          "done": false,
           "name": "Minesweeper"
         },
         {
           "link": "https://leetcode.com/problems/k-diff-pairs-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "K-diff Pairs in an Array"
         },
         {
           "link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
-          "done": "false",
+          "done": false,
           "name": "Encode and Decode TinyURL"
         },
         {
           "link": "https://leetcode.com/problems/complex-number-multiplication",
-          "done": "false",
+          "done": false,
           "name": "Complex Number Multiplication"
         },
         {
           "link": "https://leetcode.com/problems/convert-bst-to-greater-tree",
-          "done": "false",
+          "done": false,
           "name": "Convert BST to Greater Tree"
         },
         {
           "link": "https://leetcode.com/problems/01-matrix",
-          "done": "false",
+          "done": false,
           "name": "01 Matrix"
         },
         {
           "link": "https://leetcode.com/problems/optimal-division",
-          "done": "false",
+          "done": false,
           "name": "Optimal Division"
         },
         {
           "link": "https://leetcode.com/problems/subarray-sum-equals-k",
-          "done": "false",
+          "done": false,
           "name": "Subarray Sum Equals K"
         },
         {
           "link": "https://leetcode.com/problems/subtree-of-another-tree",
-          "done": "false",
+          "done": false,
           "name": "Subtree of Another Tree"
         },
         {
           "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
-          "done": "false",
+          "done": false,
           "name": "Shortest Unsorted Continuous Subarray"
         },
         {
           "link": "https://leetcode.com/problems/construct-string-from-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Construct String from Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/merge-two-binary-trees",
-          "done": "false",
+          "done": false,
           "name": "Merge Two Binary Trees"
         },
         {
           "link": "https://leetcode.com/problems/solve-the-equation",
-          "done": "false",
+          "done": false,
           "name": "Solve the Equation"
         },
         {
           "link": "https://leetcode.com/problems/set-mismatch",
-          "done": "false",
+          "done": false,
           "name": "Set Mismatch"
         },
         {
           "link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
-          "done": "false",
+          "done": false,
           "name": "Maximum Length of Pair Chain"
         },
         {
           "link": "https://leetcode.com/problems/image-smoother",
-          "done": "false",
+          "done": false,
           "name": "Image Smoother"
         },
         {
           "link": "https://leetcode.com/problems/maximum-width-of-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Maximum Width of Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/cut-off-trees-for-golf-event",
-          "done": "false",
+          "done": false,
           "name": "Cut Off Trees for Golf Event"
         },
         {
           "link": "https://leetcode.com/problems/baseball-game",
-          "done": "false",
+          "done": false,
           "name": "Baseball Game"
         },
         {
           "link": "https://leetcode.com/problems/top-k-frequent-words",
-          "done": "false",
+          "done": false,
           "name": "Top K Frequent Words"
         },
         {
           "link": "https://leetcode.com/problems/accounts-merge",
-          "done": "false",
+          "done": false,
           "name": "Accounts Merge"
         },
         {
           "link": "https://leetcode.com/problems/find-pivot-index",
-          "done": "false",
+          "done": false,
           "name": "Find Pivot Index"
         },
         {
           "link": "https://leetcode.com/problems/split-linked-list-in-parts",
-          "done": "false",
+          "done": false,
           "name": "Split Linked List in Parts"
         },
         {
           "link": "https://leetcode.com/problems/monotone-increasing-digits",
-          "done": "false",
+          "done": false,
           "name": "Monotone Increasing Digits"
         },
         {
           "link": "https://leetcode.com/problems/min-cost-climbing-stairs",
-          "done": "false",
+          "done": false,
           "name": "Min Cost Climbing Stairs"
         },
         {
           "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation",
-          "done": "false",
+          "done": false,
           "name": "Prime Number of Set Bits in Binary Representation"
         },
         {
           "link": "https://leetcode.com/problems/partition-labels",
-          "done": "false",
+          "done": false,
           "name": "Partition Labels"
         },
         {
           "link": "https://leetcode.com/problems/reorganize-string",
-          "done": "false",
+          "done": false,
           "name": "Reorganize String"
         },
         {
           "link": "https://leetcode.com/problems/global-and-local-inversions",
-          "done": "false",
+          "done": false,
           "name": "Global and Local Inversions"
         },
         {
           "link": "https://leetcode.com/problems/most-common-word",
-          "done": "false",
+          "done": false,
           "name": "Most Common Word"
         },
         {
           "link": "https://leetcode.com/problems/unique-email-addresses",
-          "done": "false",
+          "done": false,
           "name": "Unique Email Addresses"
         },
         {
           "link": "https://leetcode.com/problems/knight-dialer",
-          "done": "false",
+          "done": false,
           "name": "Knight Dialer"
         },
         {
           "link": "https://leetcode.com/problems/reorder-data-in-log-files",
-          "done": "false",
+          "done": false,
           "name": "Reorder Data in Log Files"
         },
         {
           "link": "https://leetcode.com/problems/prison-cells-after-n-days",
-          "done": "false",
+          "done": false,
           "name": "Prison Cells After N Days"
         },
         {
           "link": "https://leetcode.com/problems/k-closest-points-to-origin",
-          "done": "false",
+          "done": false,
           "name": "K Closest Points to Origin"
         },
         {
           "link": "https://leetcode.com/problems/subarrays-with-k-different-integers",
-          "done": "false",
+          "done": false,
           "name": "Subarrays with K Different Integers"
         },
         {
           "link": "https://leetcode.com/problems/rotting-oranges",
-          "done": "false",
+          "done": false,
           "name": "Rotting Oranges"
         },
         {
           "link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
-          "done": "false",
+          "done": false,
           "name": "Binary Search Tree to Greater Sum Tree"
         },
         {
           "link": "https://leetcode.com/problems/distant-barcodes",
-          "done": "false",
+          "done": false,
           "name": "Distant Barcodes"
         },
         {
           "link": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent",
-          "done": "false",
+          "done": false,
           "name": "Sum of Nodes with Even-Valued Grandparent"
         },
         {
           "link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
-          "done": "false",
+          "done": false,
           "name": "Number of Dice Rolls With Target Sum"
         },
         {
           "link": "https://leetcode.com/problems/critical-connections-in-a-network",
-          "done": "false",
+          "done": false,
           "name": "Critical Connections in a Network"
         },
         {
           "link": "https://leetcode.com/problems/search-suggestions-system",
-          "done": "false",
+          "done": false,
           "name": "Search Suggestions System"
         },
         {
           "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero",
-          "done": "false",
+          "done": false,
           "name": "Number of Steps to Reduce a Number to Zero"
         },
         {
           "link": "https://leetcode.com/problems/stone-game-iii",
-          "done": "false",
+          "done": false,
           "name": "Stone Game III"
         }
       ]
@@ -2302,347 +2302,347 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/key-pair/0",
-          "done": "false",
+          "done": false,
           "name": "Key Pair"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-3/0",
-          "done": "false",
+          "done": false,
           "name": "Is Binary Number Multiple of 3"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-          "done": "false",
+          "done": false,
           "name": "Kadane\u00e2\u20ac\u2122s Algorithm"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/missing-number-in-array/0",
-          "done": "false",
+          "done": false,
           "name": "Missing number in array"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
-          "done": "false",
+          "done": false,
           "name": "Majority Element"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
-          "done": "false",
+          "done": false,
           "name": "Search in a Rotated Array"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
-          "done": "false",
+          "done": false,
           "name": "Check for BST"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Finding middle element in a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Root to leaf path sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Reverse a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1",
-          "done": "false",
+          "done": false,
           "name": "Remove every k\u00e2\u20ac\u2122th node"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/merge-2-sorted-linked-list-in-reverse-order/1",
-          "done": "false",
+          "done": false,
           "name": "Merge 2 sorted linked list in reverse order"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/longest-even-length-substring/0",
-          "done": "false",
+          "done": false,
           "name": "Longest Even Length Substring such that Sum of First and Second Half is same"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
-          "done": "false",
+          "done": false,
           "name": "k largest(or smallest) elements in an array | added Min Heap method"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Write an Efficient Function to Convert a Binary Tree into its Mirror Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
-          "done": "false",
+          "done": false,
           "name": "Determine if Two Trees are Identical"
         },
         {
           "link": "https://leetcode.com/problems/two-sum",
-          "done": "false",
+          "done": false,
           "name": "Two Sum"
         },
         {
           "link": "https://leetcode.com/problems/add-two-numbers",
-          "done": "false",
+          "done": false,
           "name": "Add Two Numbers"
         },
         {
           "link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
-          "done": "false",
+          "done": false,
           "name": "Median of Two Sorted Arrays"
         },
         {
           "link": "https://leetcode.com/problems/longest-palindromic-substring",
-          "done": "false",
+          "done": false,
           "name": "Longest Palindromic Substring"
         },
         {
           "link": "https://leetcode.com/problems/string-to-integer-atoi",
-          "done": "false",
+          "done": false,
           "name": "String to Integer (atoi)"
         },
         {
           "link": "https://leetcode.com/problems/roman-to-integer",
-          "done": "false",
+          "done": false,
           "name": "Roman to Integer"
         },
         {
           "link": "https://leetcode.com/problems/3sum",
-          "done": "false",
+          "done": false,
           "name": "3Sum"
         },
         {
           "link": "https://leetcode.com/problems/valid-parentheses",
-          "done": "false",
+          "done": false,
           "name": "Valid Parentheses"
         },
         {
           "link": "https://leetcode.com/problems/merge-two-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge Two Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/merge-k-sorted-lists",
-          "done": "false",
+          "done": false,
           "name": "Merge k Sorted Lists"
         },
         {
           "link": "https://leetcode.com/problems/swap-nodes-in-pairs",
-          "done": "false",
+          "done": false,
           "name": "Swap Nodes in Pairs"
         },
         {
           "link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
-          "done": "false",
+          "done": false,
           "name": "Reverse Nodes in k-Group"
         },
         {
           "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Remove Duplicates from Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/implement-strstr",
-          "done": "false",
+          "done": false,
           "name": "Implement strStr()"
         },
         {
           "link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Search in Rotated Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/maximum-subarray",
-          "done": "false",
+          "done": false,
           "name": "Maximum Subarray"
         },
         {
           "link": "https://leetcode.com/problems/spiral-matrix",
-          "done": "false",
+          "done": false,
           "name": "Spiral Matrix"
         },
         {
           "link": "https://leetcode.com/problems/jump-game",
-          "done": "false",
+          "done": false,
           "name": "Jump Game"
         },
         {
           "link": "https://leetcode.com/problems/merge-intervals",
-          "done": "false",
+          "done": false,
           "name": "Merge Intervals"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Maximum Path Sum"
         },
         {
           "link": "https://leetcode.com/problems/valid-palindrome",
-          "done": "false",
+          "done": false,
           "name": "Valid Palindrome"
         },
         {
           "link": "https://leetcode.com/problems/copy-list-with-random-pointer",
-          "done": "false",
+          "done": false,
           "name": "Copy List with Random Pointer"
         },
         {
           "link": "https://leetcode.com/problems/linked-list-cycle",
-          "done": "false",
+          "done": false,
           "name": "Linked List Cycle"
         },
         {
           "link": "https://leetcode.com/problems/lru-cache",
-          "done": "false",
+          "done": false,
           "name": "LRU Cache"
         },
         {
           "link": "https://leetcode.com/problems/reverse-words-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "Reverse Words in a String"
         },
         {
           "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
-          "done": "false",
+          "done": false,
           "name": "Find Minimum in Rotated Sorted Array"
         },
         {
           "link": "https://leetcode.com/problems/find-peak-element",
-          "done": "false",
+          "done": false,
           "name": "Find Peak Element"
         },
         {
           "link": "https://leetcode.com/problems/excel-sheet-column-title",
-          "done": "false",
+          "done": false,
           "name": "Excel Sheet Column Title"
         },
         {
           "link": "https://leetcode.com/problems/excel-sheet-column-number",
-          "done": "false",
+          "done": false,
           "name": "Excel Sheet Column Number"
         },
         {
           "link": "https://leetcode.com/problems/binary-search-tree-iterator",
-          "done": "false",
+          "done": false,
           "name": "Binary Search Tree Iterator"
         },
         {
           "link": "https://leetcode.com/problems/rotate-array",
-          "done": "false",
+          "done": false,
           "name": "Rotate Array"
         },
         {
           "link": "https://leetcode.com/problems/number-of-1-bits",
-          "done": "false",
+          "done": false,
           "name": "Number of 1 Bits"
         },
         {
           "link": "https://leetcode.com/problems/number-of-islands",
-          "done": "false",
+          "done": false,
           "name": "Number of Islands"
         },
         {
           "link": "https://leetcode.com/problems/reverse-linked-list",
-          "done": "false",
+          "done": false,
           "name": "Reverse Linked List"
         },
         {
           "link": "https://leetcode.com/problems/implement-trie-prefix-tree",
-          "done": "false",
+          "done": false,
           "name": "Implement Trie (Prefix Tree)"
         },
         {
           "link": "https://leetcode.com/problems/word-search-ii",
-          "done": "false",
+          "done": false,
           "name": "Word Search II"
         },
         {
           "link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
-          "done": "false",
+          "done": false,
           "name": "Kth Largest Element in an Array"
         },
         {
           "link": "https://leetcode.com/problems/the-skyline-problem",
-          "done": "false",
+          "done": false,
           "name": "The Skyline Problem"
         },
         {
           "link": "https://leetcode.com/problems/delete-node-in-a-linked-list",
-          "done": "false",
+          "done": false,
           "name": "Delete Node in a Linked List"
         },
         {
           "link": "https://leetcode.com/problems/product-of-array-except-self",
-          "done": "false",
+          "done": false,
           "name": "Product of Array Except Self"
         },
         {
           "link": "https://leetcode.com/problems/add-digits",
-          "done": "false",
+          "done": false,
           "name": "Add Digits"
         },
         {
           "link": "https://leetcode.com/problems/missing-number",
-          "done": "false",
+          "done": false,
           "name": "Missing Number"
         },
         {
           "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Serialize and Deserialize Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/first-unique-character-in-a-string",
-          "done": "false",
+          "done": false,
           "name": "First Unique Character in a String"
         },
         {
           "link": "https://leetcode.com/problems/arithmetic-slices",
-          "done": "false",
+          "done": false,
           "name": "Arithmetic Slices"
         },
         {
           "link": "https://leetcode.com/problems/string-compression",
-          "done": "false",
+          "done": false,
           "name": "String Compression"
         },
         {
           "link": "https://leetcode.com/problems/max-chunks-to-make-sorted",
-          "done": "false",
+          "done": false,
           "name": "Max Chunks To Make Sorted"
         },
         {
           "link": "https://leetcode.com/problems/valid-tic-tac-toe-state",
-          "done": "false",
+          "done": false,
           "name": "Valid Tic-Tac-Toe State"
         },
         {
           "link": "https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters",
-          "done": "false",
+          "done": false,
           "name": "Maximum Length of a Concatenated String with Unique Characters"
         },
         {
           "link": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero",
-          "done": "false",
+          "done": false,
           "name": "Find N Unique Integers Sum up to Zero"
         },
         {
           "link": "https://leetcode.com/problems/jump-game-iii",
-          "done": "false",
+          "done": false,
           "name": "Jump Game III"
         },
         {
           "link": "https://leetcode.com/problems/cinema-seat-allocation",
-          "done": "false",
+          "done": false,
           "name": "Cinema Seat Allocation"
         },
         {
           "link": "https://leetcode.com/problems/bulb-switcher-iii",
-          "done": "false",
+          "done": false,
           "name": "Bulb Switcher III"
         }
       ]
@@ -2656,72 +2656,72 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
-          "done": "false",
+          "done": false,
           "name": "Sort an array of 0s, 1s and 2s"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
-          "done": "false",
+          "done": false,
           "name": "Reverse words in a given string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Reverse a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
-          "done": "false",
+          "done": false,
           "name": "Reverse a Linked List in groups of given size"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents/0",
-          "done": "false",
+          "done": false,
           "name": "Max Sum without Adjacents"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/mirror-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Mirror Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Flattening a Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Check for Balanced Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
-          "done": "false",
+          "done": false,
           "name": "Find the number of islands"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/coin-change/0",
-          "done": "false",
+          "done": false,
           "name": "Coin Change"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/frequency-of-array-elements/0",
-          "done": "false",
+          "done": false,
           "name": "Count frequencies of all elements in array in O(1) extra space and O(n) time"
         },
         {
           "link": "https://www.geeksforgeeks.org/convert-array-into-zig-zag-fashion/",
-          "done": "false",
+          "done": false,
           "name": "Convert array into Zig-Zag fashion"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/row-with-max-1s/0",
-          "done": "false",
+          "done": false,
           "name": "Find the row with maximum number of 1s"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum Rectangular Area in a Histogram"
         }
       ]
@@ -2735,77 +2735,77 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
-          "done": "false",
+          "done": false,
           "name": "Longest consecutive subsequence"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
-          "done": "false",
+          "done": false,
           "name": "Largest number in K swaps"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/k-largest-elements/0",
-          "done": "false",
+          "done": false,
           "name": "k largest elements"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/word-break/0",
-          "done": "false",
+          "done": false,
           "name": "Word Break"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-the-highest-occurring-digit-in-prime-numbers-in-a-range/0",
-          "done": "false",
+          "done": false,
           "name": "Find the highest occurring digit in prime numbers in a range"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/count-all-possible-paths-from-top-left-to-bottom-right/0",
-          "done": "false",
+          "done": false,
           "name": "Count all possible paths from top left to bottom right"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
-          "done": "false",
+          "done": false,
           "name": "Minimum Platforms"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
-          "done": "false",
+          "done": false,
           "name": "Parenthesis Checker"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
-          "done": "false",
+          "done": false,
           "name": "Implement LRU Cache"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/josephus-problem/1",
-          "done": "false",
+          "done": false,
           "name": "Josephus Problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Top View of Binary Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Intersection of Two Linked Lists"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
-          "done": "false",
+          "done": false,
           "name": "Alien Dictionary"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Remove Loop in Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1",
-          "done": "false",
+          "done": false,
           "name": "Wildcard Pattern Matching"
         }
       ]
@@ -2819,77 +2819,77 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
-          "done": "false",
+          "done": false,
           "name": "Search in a Rotated Array"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/subset-sum-problem/0",
-          "done": "false",
+          "done": false,
           "name": "Subset Sum Problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
-          "done": "false",
+          "done": false,
           "name": "Reverse words in a given string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
-          "done": "false",
+          "done": false,
           "name": "Sort an array of 0s, 1s and 2s"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
-          "done": "false",
+          "done": false,
           "name": "Minimum number of jumps"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
-          "done": "false",
+          "done": false,
           "name": "Check for BST"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Root to leaf path sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Sum Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Finding middle element in a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Reverse a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
-          "done": "false",
+          "done": false,
           "name": "Level order traversal in spiral form"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
-          "done": "false",
+          "done": false,
           "name": "Right View of Binary Tree"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Remove duplicate element from sorted Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Merge Sort for Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/set-bits/0",
-          "done": "false",
+          "done": false,
           "name": "Count set bits in an integer"
         }
       ]
@@ -2903,77 +2903,77 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum of all subarrays of size k"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
-          "done": "false",
+          "done": false,
           "name": "Search in a matrix"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/word-boggle/0",
-          "done": "false",
+          "done": false,
           "name": "Word Boggle"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/jumping-numbers/0",
-          "done": "false",
+          "done": false,
           "name": "Jumping Numbers"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/transform-string/0",
-          "done": "false",
+          "done": false,
           "name": "Transform String"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
-          "done": "false",
+          "done": false,
           "name": "Solve the Sudoku"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-nth-root-of-m/0",
-          "done": "false",
+          "done": false,
           "name": "Find Nth root of M"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem/0",
-          "done": "false",
+          "done": false,
           "name": "Array Pair Sum Divisibility Problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/largest-zigzag-sequence/0",
-          "done": "false",
+          "done": false,
           "name": "Largest zigzag sequence"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-intervals-overlap/0",
-          "done": "false",
+          "done": false,
           "name": "Maximum Intervals Overlap"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/max-rectangle/1",
-          "done": "false",
+          "done": false,
           "name": "Max rectangle"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximum-path-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Maximum path sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/maximize-dot-product/0",
-          "done": "false",
+          "done": false,
           "name": "Maximize Dot Product"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/excel-sheet/0",
-          "done": "false",
+          "done": false,
           "name": "Excel Sheet | Part \u00e2\u20ac\u201c 1"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/probability-of-knight/0",
-          "done": "false",
+          "done": false,
           "name": "Probability of Knight"
         }
       ]
@@ -2987,77 +2987,77 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/majority-element/0",
-          "done": "false",
+          "done": false,
           "name": "Majority Element"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array/0",
-          "done": "false",
+          "done": false,
           "name": "Search in a Rotated Array"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays/0",
-          "done": "false",
+          "done": false,
           "name": "Sum of Middle Elements of two sorted arrays"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
-          "done": "false",
+          "done": false,
           "name": "Non Repeating Character"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-          "done": "false",
+          "done": false,
           "name": "Kadane\u00e2\u20ac\u2122s Algorithm"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
-          "done": "false",
+          "done": false,
           "name": "Intersection of two sorted Linked lists"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Detect Loop in linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/print-all-nodes-that-dont-have-sibling/1",
-          "done": "false",
+          "done": false,
           "name": "Print all nodes that don\u00e2\u20ac\u2122t have sibling"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/two-mirror-trees/1",
-          "done": "false",
+          "done": false,
           "name": "Two Mirror Trees"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
-          "done": "false",
+          "done": false,
           "name": "Intersection Point in Y Shapped Linked Lists"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/trie-insert-and-search/0",
-          "done": "false",
+          "done": false,
           "name": "Trie | (Insert and Search)"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Queue using Stacks"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Stack using Queues"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
-          "done": "false",
+          "done": false,
           "name": "Find the number of islands"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range/0",
-          "done": "false",
+          "done": false,
           "name": "Copy Set Bits in Range"
         }
       ]
@@ -3071,72 +3071,72 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
-          "done": "false",
+          "done": false,
           "name": "0 \u00e2\u20ac\u201c 1 Knapsack Problem"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/search-in-a-matrix/0",
-          "done": "false",
+          "done": false,
           "name": "Search in a matrix"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
-          "done": "false",
+          "done": false,
           "name": "Power of 2"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/palindrome/0",
-          "done": "false",
+          "done": false,
           "name": "Palindrome"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/root-to-leaf-path-sum/1",
-          "done": "false",
+          "done": false,
           "name": "Root to leaf path sum"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
-          "done": "false",
+          "done": false,
           "name": "Kadane\u00e2\u20ac\u2122s Algorithm"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/binary-search/1",
-          "done": "false",
+          "done": false,
           "name": "Binary Search"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Queue using Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/connect-nodes-at-same-level/1",
-          "done": "false",
+          "done": false,
           "name": "Connect Nodes at Same Level"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Remove loop in Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Stack using Queues"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Queue using Stacks"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Remove duplicate element from sorted Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/first-repeating-element/0",
-          "done": "false",
+          "done": false,
           "name": "Find the first repeating element in an array of integers"
         }
       ]
@@ -3150,77 +3150,77 @@
       "questions": [
         {
           "link": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
-          "done": "false",
+          "done": false,
           "name": "Sort an array of 0s, 1s and 2s"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
-          "done": "false",
+          "done": false,
           "name": "Permutations of a given string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements/0",
-          "done": "false",
+          "done": false,
           "name": "Rotate Array by n elements"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/non-repeating-character/0",
-          "done": "false",
+          "done": false,
           "name": "Non Repeating Character"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0",
-          "done": "false",
+          "done": false,
           "name": "Nth Fibonacci Number"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Finding middle element in a linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "n\u00e2\u20ac\u2122th node from end of linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Detect Loop in linked list"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
-          "done": "false",
+          "done": false,
           "name": "Implement Queue using Stacks"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating/0",
-          "done": "false",
+          "done": false,
           "name": "Find Missing And Repeating"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/find-the-closest-element-in-bst/1",
-          "done": "false",
+          "done": false,
           "name": "Find the Closest Element in BST"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
-          "done": "false",
+          "done": false,
           "name": "Check if a linked list is Circular Linked List"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-the-string/0",
-          "done": "false",
+          "done": false,
           "name": "Reverse a String"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0",
-          "done": "false",
+          "done": false,
           "name": "Reverse words in a given string"
         },
         {
           "link": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
-          "done": "false",
+          "done": false,
           "name": "Egg Dropping Puzzle"
         }
       ]
@@ -3234,127 +3234,127 @@
       "questions": [
         {
           "link": "https://leetcode.com/problems/nested-list-weight-sum-ii",
-          "done": "false",
+          "done": false,
           "name": "Nested List Weight Sum II"
         },
         {
           "link": "https://leetcode.com/problems/shortest-word-distance-ii",
-          "done": "false",
+          "done": false,
           "name": "Shortest Word Distance II"
         },
         {
           "link": "https://leetcode.com/problems/closest-binary-search-tree-value-ii",
-          "done": "false",
+          "done": false,
           "name": "Closest Binary Search Tree Value II"
         },
         {
           "link": "https://leetcode.com/problems/two-sum-iii-data-structure-design",
-          "done": "false",
+          "done": false,
           "name": "Two Sum III - Data structure design"
         },
         {
           "link": "https://leetcode.com/problems/nested-list-weight-sum",
-          "done": "false",
+          "done": false,
           "name": "Nested List Weight Sum"
         },
         {
           "link": "https://leetcode.com/problems/max-stack",
-          "done": "false",
+          "done": false,
           "name": "Max Stack"
         },
         {
           "link": "https://leetcode.com/problems/find-leaves-of-binary-tree",
-          "done": "false",
+          "done": false,
           "name": "Find Leaves of Binary Tree"
         },
         {
           "link": "https://leetcode.com/problems/all-oone-data-structure",
-          "done": "false",
+          "done": false,
           "name": "All O'one Data Structure"
         },
         {
           "link": "https://leetcode.com/problems/can-place-flowers",
-          "done": "false",
+          "done": false,
           "name": "Can Place Flowers"
         },
         {
           "link": "https://leetcode.com/problems/factor-combinations",
-          "done": "false",
+          "done": false,
           "name": "Factor Combinations"
         },
         {
           "link": "https://leetcode.com/problems/paint-house",
-          "done": "false",
+          "done": false,
           "name": "Paint House"
         },
         {
           "link": "https://leetcode.com/problems/paint-house-ii",
-          "done": "false",
+          "done": false,
           "name": "Paint House II"
         },
         {
           "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
-          "done": "false",
+          "done": false,
           "name": "Evaluate Reverse Polish Notation"
         },
         {
           "link": "https://leetcode.com/problems/shortest-word-distance",
-          "done": "false",
+          "done": false,
           "name": "Shortest Word Distance"
         },
         {
           "link": "https://leetcode.com/problems/text-justification",
-          "done": "false",
+          "done": false,
           "name": "Text Justification"
         },
         {
           "link": "https://leetcode.com/problems/count-different-palindromic-subsequences",
-          "done": "false",
+          "done": false,
           "name": "Count Different Palindromic Subsequences"
         },
         {
           "link": "https://leetcode.com/problems/binary-tree-upside-down",
-          "done": "false",
+          "done": false,
           "name": "Binary Tree Upside Down"
         },
         {
           "link": "https://leetcode.com/problems/max-points-on-a-line",
-          "done": "false",
+          "done": false,
           "name": "Max Points on a Line"
         },
         {
           "link": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets",
-          "done": "false",
+          "done": false,
           "name": "Partition to K Equal Sum Subsets"
         },
         {
           "link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
-          "done": "false",
+          "done": false,
           "name": "Insert Delete GetRandom O(1)"
         },
         {
           "link": "https://leetcode.com/problems/number-of-islands",
-          "done": "false",
+          "done": false,
           "name": "Number of Islands"
         },
         {
           "link": "https://leetcode.com/problems/exclusive-time-of-functions",
-          "done": "false",
+          "done": false,
           "name": "Exclusive Time of Functions"
         },
         {
           "link": "https://leetcode.com/problems/valid-triangle-number",
-          "done": "false",
+          "done": false,
           "name": "Valid Triangle Number"
         },
         {
           "link": "https://leetcode.com/problems/valid-number",
-          "done": "false",
+          "done": false,
           "name": "Valid Number"
         },
         {
           "link": "https://leetcode.com/problems/repeated-dna-sequences",
-          "done": "false",
+          "done": false,
           "name": "Repeated DNA Sequences"
         }
       ]

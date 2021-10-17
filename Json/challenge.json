@@ -1,0 +1,405 @@
+{
+  "totalQues": 100,
+  "questions": [
+    {
+      "name": "Roman To Integer",
+      "link": "https://afteracademy.com/problems/roman-to-integer"
+    },
+    {
+      "name": "Reverse Bits",
+      "link": "https://afteracademy.com/problems/reverse-bits"
+    },
+    {
+      "name": "Square Root of Integer",
+      "link": "https://afteracademy.com/problems/square-root-of-integer"
+    },
+    {
+      "name": "Calculate power function",
+      "link": "https://afteracademy.com/problems/calculate-power-function"
+    },
+    {
+      "name": "Greatest Common Divisor",
+      "link": "https://afteracademy.com/problems/greatest-common-divisor"
+    },
+    {
+      "name": "Find the Closest Palindrome",
+      "link": "https://afteracademy.com/problems/find-the-closest-palindrome"
+    },
+    {
+      "name": "Rotate matrix",
+      "link": "https://afteracademy.com/problems/rotate-matrix"
+    },
+    {
+      "name": "Spiral Matrix",
+      "link": "https://afteracademy.com/problems/spiral-matrix"
+    },
+    {
+      "name": "Wave Array",
+      "link": "https://afteracademy.com/problems/wave-array"
+    },
+    {
+      "name": "Set Matrix Zeroes",
+      "link": "https://afteracademy.com/problems/set-matrix-zeroes"
+    },
+    {
+      "name": "maximum j – i such that A[j] > A[i]",
+      "link": "https://afteracademy.com/problems/maximum-j-minus-i-such-that-arr-j-is-greater-than-arr-i"
+    },
+    {
+      "name": "Move zeroes to an end",
+      "link": "https://afteracademy.com/problems/move-zeroes-to-an-end"
+    },
+    {
+      "name": "Merge two sorted arrays",
+      "link": "https://afteracademy.com/problems/merge-two-sorted-arrays"
+    },
+    {
+      "name": "Container with Most Water",
+      "link": "https://afteracademy.com/problems/container-with-most-water"
+    },
+    {
+      "name": "Remove duplicates from sorted array",
+      "link": "https://afteracademy.com/problems/remove-duplicates-from-sorted-array"
+    },
+    {
+      "name": "Find an element in Bitonic array",
+      "link": "https://afteracademy.com/problems/find-an-element-in-bitonic-array"
+    },
+    {
+      "name": "Find minimum element in sorted and rotated array",
+      "link": "https://afteracademy.com/problems/find-minimum-element-in-sorted-and-rotated-array"
+    },
+    {
+      "name": "Median of two sorted array of same size",
+      "link": "https://afteracademy.com/problems/median-of-two-sorted-array-of-same-size"
+    },
+    {
+      "name": "Inversion count in an array",
+      "link": "https://afteracademy.com/problems/inversion-count-in-an-array"
+    },
+    {
+      "name": "Search for a Range in a sorted array",
+      "link": "https://afteracademy.com/problems/search-for-a-range-in-a-sorted-array"
+    },
+    {
+      "name": "Longest Common Prefix",
+      "link": "https://afteracademy.com/problems/longest-common-prefix"
+    },
+    {
+      "name": "Median in row wise sorted matrix",
+      "link": "https://afteracademy.com/problems/median-in-row-wise-sorted-matrix"
+    },
+    {
+      "name": "Swap List Nodes in pairs",
+      "link": "https://afteracademy.com/problems/swap-list-nodes-in-pairs"
+    },
+    {
+      "name": "Add Two Numbers as Lists",
+      "link": "https://afteracademy.com/problems/add-two-numbers-as-lists"
+    },
+    {
+      "name": "Check if a singly linked list is palindrome",
+      "link": "https://afteracademy.com/problems/check-if-a-singly-linked-list-is-palindrome"
+    },
+    {
+      "name": "Reverse a linked list from position m to n",
+      "link": "https://afteracademy.com/problems/reverse-linked-list-from-m-to-n"
+    },
+    {
+      "name": "Detect and Remove Loop in a Linked List",
+      "link": "https://afteracademy.com/problems/detect-and-remove-loop-in-a-linked-list"
+    },
+    {
+      "name": "Merge Two Sorted Lists",
+      "link": "https://afteracademy.com/problems/merge-two-sorted-lists"
+    },
+    {
+      "name": "Remove Nth Node from List End",
+      "link": "https://afteracademy.com/problems/remove-nth-node-from-list-end"
+    },
+    {
+      "name": "Sort a linked list using insertion sort",
+      "link": "https://afteracademy.com/problems/sort-a-linked-list-using-insertion-sort"
+    },
+    {
+      "name": "Find next greater element in an array",
+      "link": "https://afteracademy.com/problems/find-next-greater-element-in-an-array"
+    },
+    {
+      "name": "Trapping rain water",
+      "link": "https://afteracademy.com/problems/trapping-rain-water"
+    },
+    {
+      "name": "Merge overlapping intervals",
+      "link": "https://afteracademy.com/problems/merge-overlapping-intervals"
+    },
+    {
+      "name": "Largest Rectangle in Histogram",
+      "link": "https://afteracademy.com/problems/largest-rectangle-in-histogram"
+    },
+    {
+      "name": "Check for balanced parentheses in an expression",
+      "link": "https://afteracademy.com/problems/check-for-balanced-parentheses-in-an-expression"
+    },
+    {
+      "name": "Min Stack Problem",
+      "link": "https://afteracademy.com/problems/min-stack-problem"
+    },
+    {
+      "name": "LRU Cache implementation",
+      "link": "https://afteracademy.com/problems/lru-cache-implementation"
+    },
+    {
+      "name": "Sort a stack using another stack",
+      "link": "https://afteracademy.com/problems/sort-a-stack-using-another-stack"
+    },
+    {
+      "name": "Lowest Common Ancestor of a Binary tree",
+      "link": "https://afteracademy.com/problems/lowest-common-ancestor-of-a-binary-tree"
+    },
+    {
+      "name": "Path sum in binary tree",
+      "link": "https://afteracademy.com/problems/path-sum-in-binary-tree"
+    },
+    {
+      "name": "Min Depth of Binary Tree",
+      "link": "https://afteracademy.com/problems/min-depth-of-binary-tree"
+    },
+    {
+      "name": "Binary Tree Zigzag Level Order Traversal",
+      "link": "https://afteracademy.com/problems/binary-tree-zigzag-level-order-traversal"
+    },
+    {
+      "name": "Invert Binary Tree",
+      "link": "https://afteracademy.com/problems/invert-binary-tree"
+    },
+    {
+      "name": "Flatten Binary Tree to Linked List",
+      "link": "https://afteracademy.com/problems/flatten-binary-tree-to-linked-list"
+    },
+    {
+      "name": "Find diameter of binary tree",
+      "link": "https://afteracademy.com/problems/find-diameter-of-binary-tree"
+    },
+    {
+      "name": "All Nodes Distance K in Binary Tree",
+      "link": "https://afteracademy.com/problems/all-nodes-distance-k-in-binary-tree"
+    },
+    {
+      "name": "Merge two binary tree",
+      "link": "https://afteracademy.com/problems/merge-two-binary-tree"
+    },
+    {
+      "name": "Shortest Unique Prefix",
+      "link": "https://afteracademy.com/problems/shortest-unique-prefix"
+    },
+    {
+      "name": "Sorted Array To Balanced BST",
+      "link": "https://afteracademy.com/problems/sorted-array-to-balanced-bst"
+    },
+    {
+      "name": "K-th largest element in BST",
+      "link": "https://afteracademy.com/problems/k-th-largest-element-in-bst"
+    },
+    {
+      "name": "Minimum absolute difference in BST",
+      "link": "https://afteracademy.com/problems/minimum-absolute-difference-in-bst"
+    },
+    {
+      "name": "Recover Binary Search Tree",
+      "link": "https://afteracademy.com/problems/recover-binary-search-tree"
+    },
+    {
+      "name": "Merge Two BST",
+      "link": "https://afteracademy.com/problems/merge-two-bst"
+    },
+    {
+      "name": "Lowest Common Ancestor of a BST",
+      "link": "https://afteracademy.com/problems/lowest-common-ancestor-of-a-bst"
+    },
+    {
+      "name": "K Pairs with Smallest Sums",
+      "link": "https://afteracademy.com/problems/k-pairs-with-smallest-sums"
+    },
+    {
+      "name": "Sliding window maximum",
+      "link": "https://afteracademy.com/problems/sliding-window-maximum"
+    },
+    {
+      "name": "Merge K sorted list",
+      "link": "https://afteracademy.com/problems/merge-k-sorted-list"
+    },
+    {
+      "name": "Convert a min heap to max heap",
+      "link": "https://afteracademy.com/problems/convert-a-min-heap-to-max-heap"
+    },
+    {
+      "name": "Check if two arrays are equal or not",
+      "link": "https://afteracademy.com/problems/check-if-two-arrays-are-equal-or-not"
+    },
+    {
+      "name": "Intersection of two unsorted array",
+      "link": "https://afteracademy.com/problems/intersection-of-two-unsorted-array"
+    },
+    {
+      "name": "Longest Consecutive Sequence",
+      "link": "https://afteracademy.com/problems/longest-consecutive-sequence"
+    },
+    {
+      "name": "Valid Anagram",
+      "link": "https://afteracademy.com/problems/valid-anagram"
+    },
+    {
+      "name": "Majority Element",
+      "link": "https://afteracademy.com/problems/majority-element"
+    },
+    {
+      "name": "Sort Characters by Frequency",
+      "link": "https://afteracademy.com/problems/sort-characters-by-frequency"
+    },
+    {
+      "name": "First Unique Character in a String",
+      "link": "https://afteracademy.com/problems/first-unique-character-in-a-string"
+    },
+    {
+      "name": "Triplet with zero sum",
+      "link": "https://afteracademy.com/problems/triplet-with-zero-sum"
+    },
+    {
+      "name": "First missing positive",
+      "link": "https://afteracademy.com/problems/first-missing-positive"
+    },
+    {
+      "name": "Largest subarray with 0 sum",
+      "link": "https://afteracademy.com/problems/largest-subarray-with-0-sum"
+    },
+    {
+      "name": "Max points on the straight line",
+      "link": "https://afteracademy.com/problems/max-points-on-the-straight-line"
+    },
+    {
+      "name": "Climbing Stairs Problem",
+      "link": "https://afteracademy.com/problems/climbing-stairs-problem"
+    },
+    {
+      "name": "Matrix Chain Multiplication",
+      "link": "https://afteracademy.com/problems/matrix-chain-multiplication"
+    },
+    {
+      "name": "Longest Increasing subsequence",
+      "link": "https://afteracademy.com/problems/longest-increasing-subsequence"
+    },
+    {
+      "name": "Partition Equal Subset Sum",
+      "link": "https://afteracademy.com/problems/partition-equal-subset-sum"
+    },
+    {
+      "name": "Minimum number of jumps to reach end",
+      "link": "https://afteracademy.com/problems/minimum-number-of-jumps-to-reach-end"
+    },
+    {
+      "name": "Interleaving String",
+      "link": "https://afteracademy.com/problems/interleaving-string"
+    },
+    {
+      "name": "Coin change problem",
+      "link": "https://afteracademy.com/problems/coin-change-problem"
+    },
+    {
+      "name": "Edit distance Problem",
+      "link": "https://afteracademy.com/problems/edit-distance-problem"
+    },
+    {
+      "name": "Min Cost Path",
+      "link": "https://afteracademy.com/problems/min-cost-path"
+    },
+    {
+      "name": "Maximal Square",
+      "link": "https://afteracademy.com/problems/maximal-square"
+    },
+    {
+      "name": "Longest Arithmetic Progression",
+      "link": "https://afteracademy.com/problems/longest-arithmetic-progression"
+    },
+    {
+      "name": "Word break problem",
+      "link": "https://afteracademy.com/problems/word-break-problem"
+    },
+    {
+      "name": "Maximum Subarray Sum",
+      "link": "https://afteracademy.com/problems/maximum-subarray-sum"
+    },
+    {
+      "name": "Palindrome Partitioning",
+      "link": "https://afteracademy.com/problems/palindrome-partitioning"
+    },
+    {
+      "name": "Max Product Subarray",
+      "link": "https://afteracademy.com/problems/max-product-subarray"
+    },
+    {
+      "name": "Maximum Product of Three Numbers",
+      "link": "https://afteracademy.com/problems/maximum-product-of-three-numbers"
+    },
+    {
+      "name": "Gas station Problem",
+      "link": "https://afteracademy.com/problems/gas-station-problem"
+    },
+    {
+      "name": "Distribute Candy Problem",
+      "link": "https://afteracademy.com/problems/distribute-candy-problem"
+    },
+    {
+      "name": "Fractional Knapsack problem",
+      "link": "https://afteracademy.com/problems/fractional-knapsack-problem"
+    },
+    {
+      "name": "Sudoku Solver",
+      "link": "https://afteracademy.com/problems/sudoku-solver"
+    },
+    {
+      "name": "Generate Parentheses",
+      "link": "https://afteracademy.com/problems/generate-parentheses"
+    },
+    {
+      "name": "Print all subset",
+      "link": "https://afteracademy.com/problems/print-all-subset"
+    },
+    {
+      "name": "Combination Sum",
+      "link": "https://afteracademy.com/problems/combination-sum"
+    },
+    {
+      "name": "Combinations",
+      "link": "https://afteracademy.com/problems/combinations"
+    },
+    {
+      "name": "Letter Combinations of a Phone Number",
+      "link": "https://afteracademy.com/problems/letter-combinations-of-a-phone-number"
+    },
+    {
+      "name": "Word ladder problem",
+      "link": "https://afteracademy.com/problems/word-ladder-problem"
+    },
+    {
+      "name": "Smallest Multiple With 0 and 1",
+      "link": "https://afteracademy.com/problems/smallest-multiple-with-0-and-1"
+    },
+    {
+      "name": "Check loop in array according to given constraints",
+      "link": "https://afteracademy.com/problems/check-loop-in-array-according-to-given-constraints"
+    },
+    {
+      "name": "Course Schedule",
+      "link": "https://afteracademy.com/problems/course-schedule"
+    },
+    {
+      "name": "Knight on chessboard",
+      "link": "https://afteracademy.com/problems/knight-on-chessboard"
+    },
+    {
+      "name": "Surrounded regions",
+      "link": "https://afteracademy.com/problems/surrounded-regions"
+    }
+  ]
+}

@@ -8,4 +8,7 @@ export const Questionname = styled.p`
     text-decoration: none;
     color: white;
   }
+  @media (max-width: 650px) {
+    font-size: smaller;
+  }
 `;

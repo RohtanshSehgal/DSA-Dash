@@ -6,7 +6,7 @@ export const data = {
     {
       tabName: "About",
       description:
-        "DSA Dash is website where you can practice topicwise and companywise questions and keep track of them. we believe in free learning and open source.",
+        "DSA Dash is website where you can practice topicwise and companywise questions and keep track of them. We believe in free learning and open source. Like this project? Star this project at GitHub. ",
     },
     {
       tabName: "Credits",

@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import ReactGA from "react-ga";
+import React from "react";
+
 import { data } from "../services/data";
 import { Div, Bar } from "../components/Progress/style.progress";
 import {
@@ -16,9 +16,6 @@ import useChallenge from "../hooks/useChallenge";
 function Challenge() {
   let challenge = useChallenge();
   const currentQuestion = challenge.data;
-  useEffect(() => {
-    ReactGA.pageview(window.location.pathname);
-  }, []);
   return (
     <>
       <Div>

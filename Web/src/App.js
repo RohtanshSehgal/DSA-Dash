@@ -1,6 +1,5 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import React, { useEffect } from "react";
-import ReactGA from "react-ga";
+import React from "react";
 import Home from "./views/Home";
 import Logo from "./components/Logo/Logo";
 import Topicwise from "./views/Topicwise";
@@ -10,10 +9,6 @@ import Challenge from "./views/Challenge";
 import Settings from "./views/Settings";
 
 function App() {
-  useEffect(() => {
-    ReactGA.initialize("");
-    ReactGA.pageview(window.location.pathname);
-  }, []);
   return (
     <Router>
       <Logo />
